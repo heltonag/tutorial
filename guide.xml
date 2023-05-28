@@ -1,19 +1,435 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Campinas/SP  Band Sports">
-    <display-name lang="pt">Campinas/SP  Band Sports</display-name>
-    <url>http://www.clarotv.com.br.EK</url>
-  </channel>
-  <channel id="BandSports">
-    <display-name lang="pt">BandSports</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1594643904.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bsp.png" />
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band São Paulo">
     <display-name lang="pt">Band São Paulo</display-name>
     <icon src="https://conteudo.imguol.com.br/c/_layout/v3/logoUOL2021/logo_completo_white.svg" />
     <url>http://www.band.uol.com.br</url>
   </channel>
+  <programme start="20230528133000 -0300" stop="20230528150000 -0300" channel="Band Sports">
+    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
+  </programme>
+  <programme start="20230528150000 -0300" stop="20230528170000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230528170000 -0300" stop="20230528180000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230528180000 -0300" stop="20230528184500 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230528184500 -0300" stop="20230528190000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230528190000 -0300" stop="20230528233000 -0300" channel="Band Sports">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230528233000 -0300" stop="20230529013000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230529013000 -0300" stop="20230529024500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230529024500 -0300" stop="20230529041500 -0300" channel="Band Sports">
+    <title lang="pt">Yamalube R3 Cup</title>
+  </programme>
+  <programme start="20230529041500 -0300" stop="20230529050000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230529050000 -0300" stop="20230529060000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Motovelocidade: Moto 1000GP</title>
+  </programme>
+  <programme start="20230529060000 -0300" stop="20230529061500 -0300" channel="Band Sports">
+    <title lang="pt">F1 Academy</title>
+  </programme>
+  <programme start="20230529061500 -0300" stop="20230529080000 -0300" channel="Band Sports">
+    <title lang="pt">Stock Series: Etapa Tarumã</title>
+  </programme>
+  <programme start="20230529080000 -0300" stop="20230529090000 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230529090000 -0300" stop="20230529110000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Friburguense x Maricá</title>
+  </programme>
+  <programme start="20230529110000 -0300" stop="20230529120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230529120000 -0300" stop="20230529140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230529140000 -0300" stop="20230529150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230529150000 -0300" stop="20230529163000 -0300" channel="Band Sports">
+    <title lang="pt">Stock Car: Etapa Tarumã</title>
+  </programme>
+  <programme start="20230529163000 -0300" stop="20230529170000 -0300" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+  </programme>
+  <programme start="20230529170000 -0300" stop="20230529180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230529180000 -0300" stop="20230529194500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230529194500 -0300" stop="20230529200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230529200000 -0300" stop="20230529220000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230529220000 -0300" stop="20230529223000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230529223000 -0300" stop="20230529233000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230529233000 -0300" stop="20230530000000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230530000000 -0300" stop="20230530020000 -0300" channel="Band Sports">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230530020000 -0300" stop="20230530040000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230530040000 -0300" stop="20230530043000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230530043000 -0300" stop="20230530053000 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230530053000 -0300" stop="20230530060000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230530060000 -0300" stop="20230530070000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230530070000 -0300" stop="20230530080000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Total</title>
+  </programme>
+  <programme start="20230530080000 -0300" stop="20230530100000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230530100000 -0300" stop="20230530110000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230530110000 -0300" stop="20230530120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230530120000 -0300" stop="20230530140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230530140000 -0300" stop="20230530150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230530150000 -0300" stop="20230530170000 -0300" channel="Band Sports">
+    <title lang="pt">Euroliga de Basquete: Final</title>
+  </programme>
+  <programme start="20230530170000 -0300" stop="20230530180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230530180000 -0300" stop="20230530194500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230530194500 -0300" stop="20230530200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230530200000 -0300" stop="20230530210000 -0300" channel="Band Sports">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20230530210000 -0300" stop="20230530230000 -0300" channel="Band Sports">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230530230000 -0300" stop="20230530233000 -0300" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+  </programme>
+  <programme start="20230530233000 -0300" stop="20230531003000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531003000 -0300" stop="20230531013000 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230531013000 -0300" stop="20230531023000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531023000 -0300" stop="20230531033000 -0300" channel="Band Sports">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20230531033000 -0300" stop="20230531050000 -0300" channel="Band Sports">
+    <title lang="pt">Stock Car: Etapa Tarumã</title>
+  </programme>
+  <programme start="20230531050000 -0300" stop="20230531054500 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  </programme>
+  <programme start="20230531054500 -0300" stop="20230531060000 -0300" channel="Band Sports">
+    <title lang="pt">Drops Bandsports</title>
+  </programme>
+  <programme start="20230531060000 -0300" stop="20230531070000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531070000 -0300" stop="20230531080000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Total</title>
+  </programme>
+  <programme start="20230531080000 -0300" stop="20230531084500 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230531084500 -0300" stop="20230531094500 -0300" channel="Band Sports">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20230531094500 -0300" stop="20230531100000 -0300" channel="Band Sports">
+    <title lang="pt">Momento Brasil Olímpico</title>
+  </programme>
+  <programme start="20230531100000 -0300" stop="20230531110000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531110000 -0300" stop="20230531120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230531120000 -0300" stop="20230531140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230531140000 -0300" stop="20230531150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230531150000 -0300" stop="20230531160000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  </programme>
+  <programme start="20230531160000 -0300" stop="20230531170000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  </programme>
+  <programme start="20230531170000 -0300" stop="20230531180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230531180000 -0300" stop="20230531194500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230531194500 -0300" stop="20230531200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230531200000 -0300" stop="20230531213000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230531213000 -0300" stop="20230531223000 -0300" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230531223000 -0300" stop="20230531233000 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230531233000 -0300" stop="20230601003000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230601003000 -0300" stop="20230601020000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230601020000 -0300" stop="20230601030000 -0300" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230601030000 -0300" stop="20230601040000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230601040000 -0300" stop="20230601060000 -0300" channel="Band Sports">
+    <title lang="pt">Euroliga de Basquete: Final</title>
+  </programme>
+  <programme start="20230601060000 -0300" stop="20230601070000 -0300" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230601070000 -0300" stop="20230601083000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230601083000 -0300" stop="20230601091500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601091500 -0300" stop="20230601100000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230601100000 -0300" stop="20230601104500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601104500 -0300" stop="20230601120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230601120000 -0300" stop="20230601140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230601140000 -0300" stop="20230601150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230601150000 -0300" stop="20230601160000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601160000 -0300" stop="20230601170000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601170000 -0300" stop="20230601180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230601180000 -0300" stop="20230601194500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230601194500 -0300" stop="20230601200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230601200000 -0300" stop="20230601210000 -0300" channel="Band Sports">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20230601210000 -0300" stop="20230601214500 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230601214500 -0300" stop="20230601221500 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230601221500 -0300" stop="20230601231500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601231500 -0300" stop="20230602001500 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602001500 -0300" stop="20230602011500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602011500 -0300" stop="20230602021500 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602021500 -0300" stop="20230602031500 -0300" channel="Band Sports">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20230602031500 -0300" stop="20230602040000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230602040000 -0300" stop="20230602050000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602050000 -0300" stop="20230602060000 -0300" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230602060000 -0300" stop="20230602070000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602070000 -0300" stop="20230602074500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602074500 -0300" stop="20230602083000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230602083000 -0300" stop="20230602093000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602093000 -0300" stop="20230602100000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230602100000 -0300" stop="20230602110000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602110000 -0300" stop="20230602120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230602120000 -0300" stop="20230602130000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602130000 -0300" stop="20230602150000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230602150000 -0300" stop="20230602153000 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230602153000 -0300" stop="20230602160000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602160000 -0300" stop="20230602170000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602170000 -0300" stop="20230602180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230602180000 -0300" stop="20230602194500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230602194500 -0300" stop="20230602200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230602200000 -0300" stop="20230602220000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete</title>
+  </programme>
+  <programme start="20230602220000 -0300" stop="20230602230000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602230000 -0300" stop="20230602233000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230602233000 -0300" stop="20230603000000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230603000000 -0300" stop="20230603010000 -0300" channel="Band Sports">
+    <title lang="pt">BWF Telecatch</title>
+  </programme>
+  <programme start="20230603010000 -0300" stop="20230603020000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603020000 -0300" stop="20230603034500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230603034500 -0300" stop="20230603044500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603044500 -0300" stop="20230603054500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603054500 -0300" stop="20230603060000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603060000 -0300" stop="20230603064500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603064500 -0300" stop="20230603073000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603073000 -0300" stop="20230603083000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603083000 -0300" stop="20230603091500 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603091500 -0300" stop="20230603101500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603101500 -0300" stop="20230603103000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603103000 -0300" stop="20230603121500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603121500 -0300" stop="20230603130000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603130000 -0300" stop="20230603150000 -0300" channel="Band Sports">
+    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
+  </programme>
+  <programme start="20230603150000 -0300" stop="20230603181500 -0300" channel="Band Sports">
+    <title lang="pt">Império Endurance Brasil: Etapa Interlagos</title>
+  </programme>
+  <programme start="20230603181500 -0300" stop="20230603190000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230603190000 -0300" stop="20230603200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230603200000 -0300" stop="20230603210000 -0300" channel="Band Sports">
+    <title lang="pt">Especial Bandsports</title>
+  </programme>
+  <programme start="20230603210000 -0300" stop="20230603213000 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230603213000 -0300" stop="20230603233000 -0300" channel="Band Sports">
+    <title lang="pt">SFT</title>
+  </programme>
+  <programme start="20230603233000 -0300" stop="20230604001500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
   <programme start="20230528040000 -0300" stop="20230528053000 -0300" channel="Band São Paulo">
     <title lang="pt">Cinema na Madrugada</title>
     <desc lang="pt">BLACK WATER - PERIGO NO OCEANO: O agente especial Wheeler acorda prisioneiro em uma instalação secreta da CIA dentro de um submarino. Ao perceber que a agência pretende incriminá-lo, ele se junta a Marco, outro agente na mesma situação, para tentar provar sua inocência.(n)</desc>
