@@ -2,6 +2,11 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Campinas/SP  Band Sports">
     <display-name lang="pt">Campinas/SP  Band Sports</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BandSports">
+    <display-name lang="pt">BandSports</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1569403972.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
