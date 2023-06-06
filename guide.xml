@@ -10,964 +10,2129 @@
     <icon src="https://conteudo.imguol.com.br/c/_layout/v3/logoUOL2021/logo_completo_white.svg" />
     <url>http://www.band.uol.com.br</url>
   </channel>
-  <programme start="20230528133000 -0300" stop="20230528150000 -0300" channel="Band Sports">
-    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
+  <channel id="Globo News">
+    <display-name lang="pt">Globo News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gln.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spo.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp2.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp3.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230606080000 -0300" stop="20230606100000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
   </programme>
-  <programme start="20230528150000 -0300" stop="20230528170000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  <programme start="20230606100000 -0300" stop="20230606110000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20230528170000 -0300" stop="20230528180000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230528180000 -0300" stop="20230528184500 -0300" channel="Band Sports">
-    <title lang="pt">Bandsports News</title>
-  </programme>
-  <programme start="20230528184500 -0300" stop="20230528190000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230528190000 -0300" stop="20230528233000 -0300" channel="Band Sports">
-    <title lang="pt">Nascar Cup Series</title>
-  </programme>
-  <programme start="20230528233000 -0300" stop="20230529013000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-  </programme>
-  <programme start="20230529013000 -0300" stop="20230529024500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230529024500 -0300" stop="20230529041500 -0300" channel="Band Sports">
-    <title lang="pt">Yamalube R3 Cup</title>
-  </programme>
-  <programme start="20230529041500 -0300" stop="20230529050000 -0300" channel="Band Sports">
-    <title lang="pt">Oléé</title>
-  </programme>
-  <programme start="20230529050000 -0300" stop="20230529060000 -0300" channel="Band Sports">
-    <title lang="pt">Campeonato Brasileiro de Motovelocidade: Moto 1000GP</title>
-  </programme>
-  <programme start="20230529060000 -0300" stop="20230529061500 -0300" channel="Band Sports">
-    <title lang="pt">F1 Academy</title>
-  </programme>
-  <programme start="20230529061500 -0300" stop="20230529080000 -0300" channel="Band Sports">
-    <title lang="pt">Stock Series: Etapa Tarumã</title>
-  </programme>
-  <programme start="20230529080000 -0300" stop="20230529090000 -0300" channel="Band Sports">
-    <title lang="pt">Doc. Bandsports</title>
-  </programme>
-  <programme start="20230529090000 -0300" stop="20230529110000 -0300" channel="Band Sports">
-    <title lang="pt">Campeonato Carioca: Friburguense x Maricá</title>
-  </programme>
-  <programme start="20230529110000 -0300" stop="20230529120000 -0300" channel="Band Sports">
+  <programme start="20230606110000 -0300" stop="20230606120000 -0300" channel="Band Sports">
     <title lang="pt">Primeiro Tempo</title>
   </programme>
-  <programme start="20230529120000 -0300" stop="20230529140000 -0300" channel="Band Sports">
+  <programme start="20230606120000 -0300" stop="20230606140000 -0300" channel="Band Sports">
     <title lang="pt">G4</title>
   </programme>
-  <programme start="20230529140000 -0300" stop="20230529150000 -0300" channel="Band Sports">
+  <programme start="20230606140000 -0300" stop="20230606150000 -0300" channel="Band Sports">
     <title lang="pt">Esporte Agora</title>
   </programme>
-  <programme start="20230529150000 -0300" stop="20230529163000 -0300" channel="Band Sports">
-    <title lang="pt">Stock Car: Etapa Tarumã</title>
-  </programme>
-  <programme start="20230529163000 -0300" stop="20230529170000 -0300" channel="Band Sports">
-    <title lang="pt">Acelerados</title>
-  </programme>
-  <programme start="20230529170000 -0300" stop="20230529180000 -0300" channel="Band Sports">
-    <title lang="pt">Os Donos da Bola</title>
-  </programme>
-  <programme start="20230529180000 -0300" stop="20230529194500 -0300" channel="Band Sports">
-    <title lang="pt">Bola Rolando</title>
-  </programme>
-  <programme start="20230529194500 -0300" stop="20230529200000 -0300" channel="Band Sports">
-    <title lang="pt">Bandsports News</title>
-  </programme>
-  <programme start="20230529200000 -0300" stop="20230529220000 -0300" channel="Band Sports">
-    <title lang="pt">Baita Amigos</title>
-  </programme>
-  <programme start="20230529220000 -0300" stop="20230529223000 -0300" channel="Band Sports">
+  <programme start="20230606150000 -0300" stop="20230606160000 -0300" channel="Band Sports">
     <title lang="pt">Tour da Bola</title>
   </programme>
-  <programme start="20230529223000 -0300" stop="20230529233000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
+  <programme start="20230606160000 -0300" stop="20230606170000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa Letônia MXGP</title>
   </programme>
-  <programme start="20230529233000 -0300" stop="20230530000000 -0300" channel="Band Sports">
-    <title lang="pt">Oléé</title>
-  </programme>
-  <programme start="20230530000000 -0300" stop="20230530020000 -0300" channel="Band Sports">
-    <title lang="pt">Nascar Cup Series</title>
-  </programme>
-  <programme start="20230530020000 -0300" stop="20230530040000 -0300" channel="Band Sports">
-    <title lang="pt">Baita Amigos</title>
-  </programme>
-  <programme start="20230530040000 -0300" stop="20230530043000 -0300" channel="Band Sports">
-    <title lang="pt">Tour da Bola</title>
-  </programme>
-  <programme start="20230530043000 -0300" stop="20230530053000 -0300" channel="Band Sports">
-    <title lang="pt">Doc. Bandsports</title>
-  </programme>
-  <programme start="20230530053000 -0300" stop="20230530060000 -0300" channel="Band Sports">
-    <title lang="pt">Oléé</title>
-  </programme>
-  <programme start="20230530060000 -0300" stop="20230530070000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230530070000 -0300" stop="20230530080000 -0300" channel="Band Sports">
-    <title lang="pt">Esporte Total</title>
-  </programme>
-  <programme start="20230530080000 -0300" stop="20230530100000 -0300" channel="Band Sports">
-    <title lang="pt">Baita Amigos</title>
-  </programme>
-  <programme start="20230530100000 -0300" stop="20230530110000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230530110000 -0300" stop="20230530120000 -0300" channel="Band Sports">
-    <title lang="pt">Primeiro Tempo</title>
-  </programme>
-  <programme start="20230530120000 -0300" stop="20230530140000 -0300" channel="Band Sports">
-    <title lang="pt">G4</title>
-  </programme>
-  <programme start="20230530140000 -0300" stop="20230530150000 -0300" channel="Band Sports">
-    <title lang="pt">Esporte Agora</title>
-  </programme>
-  <programme start="20230530150000 -0300" stop="20230530170000 -0300" channel="Band Sports">
-    <title lang="pt">Euroliga de Basquete: Final</title>
-  </programme>
-  <programme start="20230530170000 -0300" stop="20230530180000 -0300" channel="Band Sports">
+  <programme start="20230606170000 -0300" stop="20230606180000 -0300" channel="Band Sports">
     <title lang="pt">Os Donos da Bola</title>
   </programme>
-  <programme start="20230530180000 -0300" stop="20230530194500 -0300" channel="Band Sports">
+  <programme start="20230606180000 -0300" stop="20230606194500 -0300" channel="Band Sports">
     <title lang="pt">Bola Rolando</title>
   </programme>
-  <programme start="20230530194500 -0300" stop="20230530200000 -0300" channel="Band Sports">
+  <programme start="20230606194500 -0300" stop="20230606200000 -0300" channel="Band Sports">
     <title lang="pt">Bandsports News</title>
   </programme>
-  <programme start="20230530200000 -0300" stop="20230530210000 -0300" channel="Band Sports">
+  <programme start="20230606200000 -0300" stop="20230606210000 -0300" channel="Band Sports">
     <title lang="pt">Encontro de Craques</title>
   </programme>
-  <programme start="20230530210000 -0300" stop="20230530230000 -0300" channel="Band Sports">
+  <programme start="20230606210000 -0300" stop="20230606230000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Olaria x Cabofriense</title>
+  </programme>
+  <programme start="20230606230000 -0300" stop="20230606233000 -0300" channel="Band Sports">
+    <title lang="pt">Olímpicos</title>
+  </programme>
+  <programme start="20230606233000 -0300" stop="20230607003000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230607003000 -0300" stop="20230607023000 -0300" channel="Band Sports">
     <title lang="pt">Nascar Cup Series</title>
   </programme>
-  <programme start="20230530230000 -0300" stop="20230530233000 -0300" channel="Band Sports">
-    <title lang="pt">Acelerados</title>
-  </programme>
-  <programme start="20230530233000 -0300" stop="20230531003000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230531003000 -0300" stop="20230531013000 -0300" channel="Band Sports">
-    <title lang="pt">Doc. Bandsports</title>
-  </programme>
-  <programme start="20230531013000 -0300" stop="20230531023000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230531023000 -0300" stop="20230531033000 -0300" channel="Band Sports">
+  <programme start="20230607023000 -0300" stop="20230607033000 -0300" channel="Band Sports">
     <title lang="pt">Encontro de Craques</title>
   </programme>
-  <programme start="20230531033000 -0300" stop="20230531050000 -0300" channel="Band Sports">
-    <title lang="pt">Stock Car: Etapa Tarumã</title>
+  <programme start="20230607033000 -0300" stop="20230607043000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20230531050000 -0300" stop="20230531054500 -0300" channel="Band Sports">
-    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  <programme start="20230607043000 -0300" stop="20230607050000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
   </programme>
-  <programme start="20230531054500 -0300" stop="20230531060000 -0300" channel="Band Sports">
+  <programme start="20230607050000 -0300" stop="20230607054500 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230607054500 -0300" stop="20230607060000 -0300" channel="Band Sports">
     <title lang="pt">Drops Bandsports</title>
   </programme>
-  <programme start="20230531060000 -0300" stop="20230531070000 -0300" channel="Band Sports">
+  <programme start="20230607060000 -0300" stop="20230607070000 -0300" channel="Band Sports">
     <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20230531070000 -0300" stop="20230531080000 -0300" channel="Band Sports">
+  <programme start="20230607070000 -0300" stop="20230607080000 -0300" channel="Band Sports">
     <title lang="pt">Esporte Total</title>
   </programme>
-  <programme start="20230531080000 -0300" stop="20230531084500 -0300" channel="Band Sports">
+  <programme start="20230607080000 -0300" stop="20230607084500 -0300" channel="Band Sports">
     <title lang="pt">Resenha do Galinho</title>
   </programme>
-  <programme start="20230531084500 -0300" stop="20230531094500 -0300" channel="Band Sports">
+  <programme start="20230607084500 -0300" stop="20230607094500 -0300" channel="Band Sports">
     <title lang="pt">Encontro de Craques</title>
   </programme>
-  <programme start="20230531094500 -0300" stop="20230531100000 -0300" channel="Band Sports">
+  <programme start="20230607094500 -0300" stop="20230607100000 -0300" channel="Band Sports">
     <title lang="pt">Momento Brasil Olímpico</title>
   </programme>
-  <programme start="20230531100000 -0300" stop="20230531110000 -0300" channel="Band Sports">
+  <programme start="20230607100000 -0300" stop="20230607110000 -0300" channel="Band Sports">
     <title lang="pt">Depois do Jogo</title>
   </programme>
-  <programme start="20230531110000 -0300" stop="20230531120000 -0300" channel="Band Sports">
+  <programme start="20230607110000 -0300" stop="20230607120000 -0300" channel="Band Sports">
     <title lang="pt">Primeiro Tempo</title>
   </programme>
-  <programme start="20230531120000 -0300" stop="20230531140000 -0300" channel="Band Sports">
+  <programme start="20230607120000 -0300" stop="20230607140000 -0300" channel="Band Sports">
     <title lang="pt">G4</title>
   </programme>
-  <programme start="20230531140000 -0300" stop="20230531150000 -0300" channel="Band Sports">
+  <programme start="20230607140000 -0300" stop="20230607150000 -0300" channel="Band Sports">
     <title lang="pt">Esporte Agora</title>
   </programme>
-  <programme start="20230531150000 -0300" stop="20230531160000 -0300" channel="Band Sports">
-    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
-  </programme>
-  <programme start="20230531160000 -0300" stop="20230531170000 -0300" channel="Band Sports">
-    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
-  </programme>
-  <programme start="20230531170000 -0300" stop="20230531180000 -0300" channel="Band Sports">
-    <title lang="pt">Os Donos da Bola</title>
-  </programme>
-  <programme start="20230531180000 -0300" stop="20230531194500 -0300" channel="Band Sports">
-    <title lang="pt">Bola Rolando</title>
-  </programme>
-  <programme start="20230531194500 -0300" stop="20230531200000 -0300" channel="Band Sports">
-    <title lang="pt">Bandsports News</title>
-  </programme>
-  <programme start="20230531200000 -0300" stop="20230531213000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230531213000 -0300" stop="20230531223000 -0300" channel="Band Sports">
-    <title lang="pt">Traduzindo F1</title>
-  </programme>
-  <programme start="20230531223000 -0300" stop="20230531233000 -0300" channel="Band Sports">
-    <title lang="pt">Doc. Bandsports</title>
-  </programme>
-  <programme start="20230531233000 -0300" stop="20230601003000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230601003000 -0300" stop="20230601020000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230601020000 -0300" stop="20230601030000 -0300" channel="Band Sports">
-    <title lang="pt">Traduzindo F1</title>
-  </programme>
-  <programme start="20230601030000 -0300" stop="20230601040000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230601040000 -0300" stop="20230601060000 -0300" channel="Band Sports">
-    <title lang="pt">Euroliga de Basquete: Final</title>
-  </programme>
-  <programme start="20230601060000 -0300" stop="20230601070000 -0300" channel="Band Sports">
-    <title lang="pt">Traduzindo F1</title>
-  </programme>
-  <programme start="20230601070000 -0300" stop="20230601083000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230601083000 -0300" stop="20230601091500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230601091500 -0300" stop="20230601100000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230601100000 -0300" stop="20230601104500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230601104500 -0300" stop="20230601120000 -0300" channel="Band Sports">
-    <title lang="pt">Primeiro Tempo</title>
-  </programme>
-  <programme start="20230601120000 -0300" stop="20230601140000 -0300" channel="Band Sports">
-    <title lang="pt">G4</title>
-  </programme>
-  <programme start="20230601140000 -0300" stop="20230601150000 -0300" channel="Band Sports">
-    <title lang="pt">Esporte Agora</title>
-  </programme>
-  <programme start="20230601150000 -0300" stop="20230601160000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230601160000 -0300" stop="20230601170000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230601170000 -0300" stop="20230601180000 -0300" channel="Band Sports">
-    <title lang="pt">Os Donos da Bola</title>
-  </programme>
-  <programme start="20230601180000 -0300" stop="20230601194500 -0300" channel="Band Sports">
-    <title lang="pt">Bola Rolando</title>
-  </programme>
-  <programme start="20230601194500 -0300" stop="20230601200000 -0300" channel="Band Sports">
-    <title lang="pt">Bandsports News</title>
-  </programme>
-  <programme start="20230601200000 -0300" stop="20230601210000 -0300" channel="Band Sports">
-    <title lang="pt">Maratona Bandsports</title>
-  </programme>
-  <programme start="20230601210000 -0300" stop="20230601214500 -0300" channel="Band Sports">
-    <title lang="pt">Resenha do Galinho</title>
-  </programme>
-  <programme start="20230601214500 -0300" stop="20230601221500 -0300" channel="Band Sports">
-    <title lang="pt">The Golf Brasil</title>
-  </programme>
-  <programme start="20230601221500 -0300" stop="20230601231500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230601231500 -0300" stop="20230602001500 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230602001500 -0300" stop="20230602011500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602011500 -0300" stop="20230602021500 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230602021500 -0300" stop="20230602031500 -0300" channel="Band Sports">
-    <title lang="pt">Maratona Bandsports</title>
-  </programme>
-  <programme start="20230602031500 -0300" stop="20230602040000 -0300" channel="Band Sports">
-    <title lang="pt">Resenha do Galinho</title>
-  </programme>
-  <programme start="20230602040000 -0300" stop="20230602050000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230602050000 -0300" stop="20230602060000 -0300" channel="Band Sports">
-    <title lang="pt">Traduzindo F1</title>
-  </programme>
-  <programme start="20230602060000 -0300" stop="20230602070000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602070000 -0300" stop="20230602074500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602074500 -0300" stop="20230602083000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230602083000 -0300" stop="20230602093000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602093000 -0300" stop="20230602100000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230602100000 -0300" stop="20230602110000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602110000 -0300" stop="20230602120000 -0300" channel="Band Sports">
-    <title lang="pt">Primeiro Tempo</title>
-  </programme>
-  <programme start="20230602120000 -0300" stop="20230602130000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602130000 -0300" stop="20230602150000 -0300" channel="Band Sports">
-    <title lang="pt">G4</title>
-  </programme>
-  <programme start="20230602150000 -0300" stop="20230602153000 -0300" channel="Band Sports">
-    <title lang="pt">The Golf Brasil</title>
-  </programme>
-  <programme start="20230602153000 -0300" stop="20230602160000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602160000 -0300" stop="20230602170000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230602170000 -0300" stop="20230602180000 -0300" channel="Band Sports">
-    <title lang="pt">Os Donos da Bola</title>
-  </programme>
-  <programme start="20230602180000 -0300" stop="20230602194500 -0300" channel="Band Sports">
-    <title lang="pt">Bola Rolando</title>
-  </programme>
-  <programme start="20230602194500 -0300" stop="20230602200000 -0300" channel="Band Sports">
-    <title lang="pt">Bandsports News</title>
-  </programme>
-  <programme start="20230602200000 -0300" stop="20230602220000 -0300" channel="Band Sports">
-    <title lang="pt">Campeonato Brasileiro de Basquete</title>
-  </programme>
-  <programme start="20230602220000 -0300" stop="20230602230000 -0300" channel="Band Sports">
-    <title lang="pt">Depois do Jogo</title>
-  </programme>
-  <programme start="20230602230000 -0300" stop="20230602233000 -0300" channel="Band Sports">
+  <programme start="20230607150000 -0300" stop="20230607160000 -0300" channel="Band Sports">
     <title lang="pt">Tour da Bola</title>
   </programme>
-  <programme start="20230602233000 -0300" stop="20230603000000 -0300" channel="Band Sports">
-    <title lang="pt">Oléé</title>
+  <programme start="20230607160000 -0300" stop="20230607170000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Superbike: Etapa Itália</title>
   </programme>
-  <programme start="20230603000000 -0300" stop="20230603010000 -0300" channel="Band Sports">
-    <title lang="pt">BWF Telecatch</title>
+  <programme start="20230607170000 -0300" stop="20230607180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
   </programme>
-  <programme start="20230603010000 -0300" stop="20230603020000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603020000 -0300" stop="20230603034500 -0300" channel="Band Sports">
+  <programme start="20230607180000 -0300" stop="20230607194500 -0300" channel="Band Sports">
     <title lang="pt">Bola Rolando</title>
   </programme>
-  <programme start="20230603034500 -0300" stop="20230603044500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603044500 -0300" stop="20230603054500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603054500 -0300" stop="20230603060000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603060000 -0300" stop="20230603064500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603064500 -0300" stop="20230603073000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230603073000 -0300" stop="20230603083000 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603083000 -0300" stop="20230603091500 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230603091500 -0300" stop="20230603101500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 2: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603101500 -0300" stop="20230603103000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230603103000 -0300" stop="20230603121500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 1: GP de Mônaco</title>
-  </programme>
-  <programme start="20230603121500 -0300" stop="20230603130000 -0300" channel="Band Sports">
-    <title lang="pt">Supermotor</title>
-  </programme>
-  <programme start="20230603130000 -0300" stop="20230603150000 -0300" channel="Band Sports">
-    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
-  </programme>
-  <programme start="20230603150000 -0300" stop="20230603181500 -0300" channel="Band Sports">
-    <title lang="pt">Império Endurance Brasil: Etapa Interlagos</title>
-  </programme>
-  <programme start="20230603181500 -0300" stop="20230603190000 -0300" channel="Band Sports">
-    <title lang="pt">Resenha do Galinho</title>
-  </programme>
-  <programme start="20230603190000 -0300" stop="20230603200000 -0300" channel="Band Sports">
+  <programme start="20230607194500 -0300" stop="20230607200000 -0300" channel="Band Sports">
     <title lang="pt">Bandsports News</title>
   </programme>
-  <programme start="20230603200000 -0300" stop="20230603210000 -0300" channel="Band Sports">
-    <title lang="pt">Especial Bandsports</title>
+  <programme start="20230607200000 -0300" stop="20230607213000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
   </programme>
-  <programme start="20230603210000 -0300" stop="20230603213000 -0300" channel="Band Sports">
+  <programme start="20230607213000 -0300" stop="20230607223000 -0300" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230607223000 -0300" stop="20230607233000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP da Espanha</title>
+  </programme>
+  <programme start="20230607233000 -0300" stop="20230608003000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230608003000 -0300" stop="20230608020000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230608020000 -0300" stop="20230608030000 -0300" channel="Band Sports">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230608030000 -0300" stop="20230608041500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP da Espanha</title>
+  </programme>
+  <programme start="20230608041500 -0300" stop="20230608051500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP da Espanha</title>
+  </programme>
+  <programme start="20230608051500 -0300" stop="20230608060000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230608060000 -0300" stop="20230608070000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230608070000 -0300" stop="20230608080000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Total</title>
+  </programme>
+  <programme start="20230608080000 -0300" stop="20230608083000 -0300" channel="Band Sports">
     <title lang="pt">The Golf Brasil</title>
   </programme>
-  <programme start="20230603213000 -0300" stop="20230603233000 -0300" channel="Band Sports">
+  <programme start="20230608083000 -0300" stop="20230608094500 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230608094500 -0300" stop="20230608100000 -0300" channel="Band Sports">
+    <title lang="pt">Drops Bandsports</title>
+  </programme>
+  <programme start="20230608100000 -0300" stop="20230608110000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230608110000 -0300" stop="20230608120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230608120000 -0300" stop="20230608140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230608140000 -0300" stop="20230608150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230608150000 -0300" stop="20230608160000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230608160000 -0300" stop="20230608170000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP da Espanha</title>
+  </programme>
+  <programme start="20230608170000 -0300" stop="20230608180000 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230608180000 -0300" stop="20230608200000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete: Final Four</title>
+  </programme>
+  <programme start="20230608200000 -0300" stop="20230608220000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete: Final Four</title>
+  </programme>
+  <programme start="20230608220000 -0300" stop="20230608224500 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230608224500 -0300" stop="20230608231500 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230608231500 -0300" stop="20230609001500 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230609001500 -0300" stop="20230609021500 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 1: GP da Espanha</title>
+  </programme>
+  <programme start="20230609021500 -0300" stop="20230609030000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230609030000 -0300" stop="20230609033000 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230609033000 -0300" stop="20230609043000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230609043000 -0300" stop="20230609053000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos Especial: 70 Anos do Brinco de Ouro</title>
+  </programme>
+  <programme start="20230609053000 -0300" stop="20230609060000 -0300" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
+  </programme>
+  <programme start="20230609060000 -0300" stop="20230609110000 -0300" channel="Band Sports">
+    <title lang="pt">Troféu Brasil de Natação</title>
+  </programme>
+  <programme start="20230609110000 -0300" stop="20230609120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230609120000 -0300" stop="20230609140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230609140000 -0300" stop="20230609150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230609150000 -0300" stop="20230609160000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230609160000 -0300" stop="20230609163000 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230609163000 -0300" stop="20230609170000 -0300" channel="Band Sports">
+    <title lang="pt">Olímpicos</title>
+  </programme>
+  <programme start="20230609170000 -0300" stop="20230609180000 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230609180000 -0300" stop="20230609220000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete: Final Four</title>
+  </programme>
+  <programme start="20230609220000 -0300" stop="20230609230000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230609230000 -0300" stop="20230609233000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230609233000 -0300" stop="20230610000000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230610000000 -0300" stop="20230610010000 -0300" channel="Band Sports">
+    <title lang="pt">BWF Telecatch</title>
+  </programme>
+  <programme start="20230610010000 -0300" stop="20230610020000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230610020000 -0300" stop="20230610030000 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230610030000 -0300" stop="20230610033000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230610033000 -0300" stop="20230610034500 -0300" channel="Band Sports">
+    <title lang="pt">Drops Bandsports</title>
+  </programme>
+  <programme start="20230610034500 -0300" stop="20230610044500 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230610044500 -0300" stop="20230610053000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230610053000 -0300" stop="20230610060000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230610060000 -0300" stop="20230610063000 -0300" channel="Band Sports">
+    <title lang="pt">Olímpicos</title>
+  </programme>
+  <programme start="20230610063000 -0300" stop="20230610083000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete: Final Four</title>
+  </programme>
+  <programme start="20230610083000 -0300" stop="20230610090000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230610090000 -0300" stop="20230610100000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230610100000 -0300" stop="20230610111500 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230610111500 -0300" stop="20230610131500 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230610131500 -0300" stop="20230610134500 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230610134500 -0300" stop="20230610143000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230610143000 -0300" stop="20230610150000 -0300" channel="Band Sports">
+    <title lang="pt">Pré-Jogo</title>
+  </programme>
+  <programme start="20230610150000 -0300" stop="20230610170000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Série A2</title>
+  </programme>
+  <programme start="20230610170000 -0300" stop="20230610174500 -0300" channel="Band Sports">
+    <title lang="pt">Pré-Jogo</title>
+  </programme>
+  <programme start="20230610174500 -0300" stop="20230610221500 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete: Final Four</title>
+  </programme>
+  <programme start="20230610221500 -0300" stop="20230610231500 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230610231500 -0300" stop="20230611011500 -0300" channel="Band Sports">
     <title lang="pt">SFT</title>
   </programme>
-  <programme start="20230603233000 -0300" stop="20230604001500 -0300" channel="Band Sports">
-    <title lang="pt">Fórmula 3: GP de Mônaco</title>
-  </programme>
-  <programme start="20230528040000 -0300" stop="20230528053000 -0300" channel="Band São Paulo">
-    <title lang="pt">Cinema na Madrugada</title>
-    <desc lang="pt">BLACK WATER - PERIGO NO OCEANO: O agente especial Wheeler acorda prisioneiro em uma instalação secreta da CIA dentro de um submarino. Ao perceber que a agência pretende incriminá-lo, ele se junta a Marco, outro agente na mesma situação, para tentar provar sua inocência.(n)</desc>
-  </programme>
-  <programme start="20230528053000 -0300" stop="20230528060000 -0300" channel="Band São Paulo">
-    <title lang="pt">+ INFO</title>
-    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
-  </programme>
-  <programme start="20230528060000 -0300" stop="20230528060000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Kids - Beyblade Burst Quad Drive</title>
-    <desc lang="pt">Valt Aoi e outras lendas do Beyblade irão desafiar o Princípe Sombrio e seu incrível Quad Bey Destruction, Belfyre.\n.(n)</desc>
-  </programme>
-  <programme start="20230528060000 -0300" stop="20230528070000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Kids - O Diário de Mika</title>
-    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.(n)</desc>
-  </programme>
-  <programme start="20230528070000 -0300" stop="20230528090000 -0300" channel="Band São Paulo">
-    <title lang="pt">Infomercial - Hipercap</title>
-    <desc lang="pt">Sorteios para os possuidores do títulos de capitalização.(n)</desc>
-  </programme>
-  <programme start="20230528090000 -0300" stop="20230528093000 -0300" channel="Band São Paulo">
-    <title lang="pt">Esquenta Fórmula 1</title>
-    <desc lang="pt">Um resumo do que os fãs do automobilismo precisam saber antes do Grande Prêmio de Mônaco.(n)</desc>
-  </programme>
-  <programme start="20230528093000 -0300" stop="20230528120000 -0300" channel="Band São Paulo">
-    <title lang="pt">Fórmula 1 2023</title>
-    <desc lang="pt">As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.(n)</desc>
-  </programme>
-  <programme start="20230528120000 -0300" stop="20230528150000 -0300" channel="Band São Paulo">
-    <title lang="pt">Show do Esporte</title>
-    <desc lang="pt">O canal do Esporte traz a cobertura completa dos campeonatos de futebol, automobilismo e basquete.(n)</desc>
-  </programme>
-  <programme start="20230528150000 -0300" stop="20230528200000 -0300" channel="Band São Paulo">
-    <title lang="pt">Campeonato Brasileiro Série B</title>
-    <desc lang="pt">Torneio de futebol brasileiro com os clubes da segunda divisão.\n.(n)</desc>
-  </programme>
-  <programme start="20230528200000 -0300" stop="20230528223000 -0300" channel="Band São Paulo">
-    <title lang="pt">Perrengue Na Band</title>
-    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.(n)</desc>
-  </programme>
-  <programme start="20230528223000 -0300" stop="20230529000000 -0300" channel="Band São Paulo">
-    <title lang="pt">3º Tempo</title>
-    <desc lang="pt">O mais tradicional programa pós-rodada da tv brasileira. Com reportagens nos gramados, nos vestiários e muita opinião sobre os lances polêmicos e o rumo dos campeonatos.(n)</desc>
-  </programme>
-  <programme start="20230529000000 -0300" stop="20230529010000 -0300" channel="Band São Paulo">
-    <title lang="pt">Canal Livre</title>
-    <desc lang="pt">Momento de entrevista e análise com personalidades do mundo político, econômico, cultural, esportivo, científico e empresarial.(n)</desc>
-  </programme>
-  <programme start="20230529010000 -0300" stop="20230529014500 -0300" channel="Band São Paulo">
-    <title lang="pt">Show Business</title>
-    <desc lang="pt">Entrevistas com personalidades do mundo empresarial, politico e cultural. Com foco principal na economia, nos negócios e na administração pública.(n)</desc>
-  </programme>
-  <programme start="20230529014500 -0300" stop="20230529021500 -0300" channel="Band São Paulo">
-    <title lang="pt">+ INFO</title>
-    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
-  </programme>
-  <programme start="20230529021500 -0300" stop="20230529031500 -0300" channel="Band São Paulo">
-    <title lang="pt">Fórmula 2 2023 - compacto</title>
-    <desc lang="pt">As emoções da modalidade preparatória para a principal competição automobilística do mundo.(n)</desc>
-  </programme>
-  <programme start="20230529031500 -0300" stop="20230529040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Fórmula 3 2023 - compacto</title>
-    <desc lang="pt">As emoções da modalidade conhecida por ser o primeiro grande passo de jovens pilotos.(n)</desc>
-  </programme>
-  <programme start="20230529040000 -0300" stop="20230529060000 -0300" channel="Band São Paulo">
-    <title lang="pt">1º Jornal</title>
-    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
-  </programme>
-  <programme start="20230529060000 -0300" stop="20230529080000 -0300" channel="Band São Paulo">
-    <title lang="pt">Show da Fé</title>
-    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
-  </programme>
-  <programme start="20230529080000 -0300" stop="20230529090000 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
-  </programme>
-  <programme start="20230529090000 -0300" stop="20230529092500 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
-  </programme>
-  <programme start="20230529092500 -0300" stop="20230529110000 -0300" channel="Band São Paulo">
-    <title lang="pt">The Chef</title>
-    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
-  </programme>
-  <programme start="20230529110000 -0300" stop="20230529120000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230529120000 -0300" stop="20230529130000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto - Debate</title>
-    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
-  </programme>
-  <programme start="20230529130000 -0300" stop="20230529143000 -0300" channel="Band São Paulo">
-    <title lang="pt">Os Donos da Bola - SP</title>
-    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
-  </programme>
-  <programme start="20230529143000 -0300" stop="20230529160000 -0300" channel="Band São Paulo">
-    <title lang="pt">Melhor da Tarde</title>
-    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
-  </programme>
-  <programme start="20230529160000 -0300" stop="20230529185000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230529185000 -0300" stop="20230529192000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230529192000 -0300" stop="20230529230000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-  </programme>
-  <programme start="20230529230000 -0300" stop="20230530005000 -0300" channel="Band São Paulo">
-    <title lang="pt">Sessão Especial</title>
-    <desc lang="pt">OS CAÇA-FANTASMAS: Os parapsicologistas Egon Spengler, Raymond Stantz e Peter Venkman, decidem abrir seu próprio negócio de caçadores de fantasmas quando um portal para uma outra dimensão é aberto em Nova York.\n.(n)</desc>
-  </programme>
-  <programme start="20230530005000 -0300" stop="20230530014500 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
-  </programme>
-  <programme start="20230530014500 -0300" stop="20230530015000 -0300" channel="Band São Paulo">
-    <title lang="pt">Que Fim Levou?</title>
-    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
-  </programme>
-  <programme start="20230530015000 -0300" stop="20230530024500 -0300" channel="Band São Paulo">
-    <title lang="pt">Esporte Total</title>
-    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230530024500 -0300" stop="20230530030000 -0300" channel="Band São Paulo">
-    <title lang="pt">+ INFO</title>
-    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
-  </programme>
-  <programme start="20230530030000 -0300" stop="20230530040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-  </programme>
-  <programme start="20230530040000 -0300" stop="20230530060000 -0300" channel="Band São Paulo">
-    <title lang="pt">1º Jornal</title>
-    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
-  </programme>
-  <programme start="20230530060000 -0300" stop="20230530080000 -0300" channel="Band São Paulo">
-    <title lang="pt">Show da Fé</title>
-    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
-  </programme>
-  <programme start="20230530080000 -0300" stop="20230530090000 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
-  </programme>
-  <programme start="20230530090000 -0300" stop="20230530092500 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
-  </programme>
-  <programme start="20230530092500 -0300" stop="20230530110000 -0300" channel="Band São Paulo">
-    <title lang="pt">The Chef</title>
-    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
-  </programme>
-  <programme start="20230530110000 -0300" stop="20230530120000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230530120000 -0300" stop="20230530130000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto - Debate</title>
-    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
-  </programme>
-  <programme start="20230530130000 -0300" stop="20230530143000 -0300" channel="Band São Paulo">
-    <title lang="pt">Os Donos da Bola - SP</title>
-    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
-  </programme>
-  <programme start="20230530143000 -0300" stop="20230530160000 -0300" channel="Band São Paulo">
-    <title lang="pt">Melhor da Tarde</title>
-    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
-  </programme>
-  <programme start="20230530160000 -0300" stop="20230530185000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230530185000 -0300" stop="20230530192000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230530192000 -0300" stop="20230530203000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-  </programme>
-  <programme start="20230530203000 -0300" stop="20230530223000 -0300" channel="Band São Paulo">
-    <title lang="pt">Faustão na Band</title>
-    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
-  </programme>
-  <programme start="20230530223000 -0300" stop="20230531003000 -0300" channel="Band São Paulo">
-    <title lang="pt">MasterChef</title>
-    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
-  </programme>
-  <programme start="20230531003000 -0300" stop="20230531010000 -0300" channel="Band São Paulo">
-    <title lang="pt">NBA</title>
-    <desc lang="pt">As principais estrelas das quadras na tela Band. São as partidas da temporada regular da maior liga de basquete do mundo.(n)</desc>
-  </programme>
-  <programme start="20230531010000 -0300" stop="20230531015500 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
-  </programme>
-  <programme start="20230531015500 -0300" stop="20230531020000 -0300" channel="Band São Paulo">
-    <title lang="pt">Que Fim Levou?</title>
-    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
-  </programme>
-  <programme start="20230531020000 -0300" stop="20230531030000 -0300" channel="Band São Paulo">
-    <title lang="pt">Esporte Total</title>
-    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230531030000 -0300" stop="20230531040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-  </programme>
-  <programme start="20230531040000 -0300" stop="20230531060000 -0300" channel="Band São Paulo">
-    <title lang="pt">1º Jornal</title>
-    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
-  </programme>
-  <programme start="20230531060000 -0300" stop="20230531080000 -0300" channel="Band São Paulo">
-    <title lang="pt">Show da Fé</title>
-    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
-  </programme>
-  <programme start="20230531080000 -0300" stop="20230531090000 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
-  </programme>
-  <programme start="20230531090000 -0300" stop="20230531092500 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
-  </programme>
-  <programme start="20230531092500 -0300" stop="20230531110000 -0300" channel="Band São Paulo">
-    <title lang="pt">The Chef</title>
-    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
-  </programme>
-  <programme start="20230531110000 -0300" stop="20230531120000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230531120000 -0300" stop="20230531130000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto - Debate</title>
-    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
-  </programme>
-  <programme start="20230531130000 -0300" stop="20230531143000 -0300" channel="Band São Paulo">
-    <title lang="pt">Os Donos da Bola - SP</title>
-    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
-  </programme>
-  <programme start="20230531143000 -0300" stop="20230531160000 -0300" channel="Band São Paulo">
-    <title lang="pt">Melhor da Tarde</title>
-    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
-  </programme>
-  <programme start="20230531160000 -0300" stop="20230531185000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230531185000 -0300" stop="20230531192000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230531192000 -0300" stop="20230531203000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  <programme start="20230611011500 -0300" stop="20230611031500 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Série A2</title>
   </programme>
-  <programme start="20230531203000 -0300" stop="20230531230000 -0300" channel="Band São Paulo">
-    <title lang="pt">Faustão na Band</title>
-    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  <programme start="20230611031500 -0300" stop="20230611041500 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
   </programme>
-  <programme start="20230531230000 -0300" stop="20230601010000 -0300" channel="Band São Paulo">
-    <title lang="pt">Cine Clube</title>
-    <desc lang="pt">30 MINUTOS OU MENOS: Nick é um entregador de pizzas que leva uma vida comum e entediante, mas quando cruza o caminho de dois criminosos é sequestrado e obrigado a assaltar um banco com uma bomba presa a seu corpo. Nick tem apenas 30 minutos para realizar o roubo com a ajuda de seu amigo Chet.(n)</desc>
+  <programme start="20230611041500 -0300" stop="20230611050000 -0300" channel="Band Sports">
+    <title lang="pt">Resenha do Galinho</title>
   </programme>
-  <programme start="20230601010000 -0300" stop="20230601015500 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  <programme start="20230611050000 -0300" stop="20230611090000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Brasileiro de Basquete: Final Four</title>
   </programme>
-  <programme start="20230601015500 -0300" stop="20230601020000 -0300" channel="Band São Paulo">
-    <title lang="pt">Que Fim Levou?</title>
-    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
+  <programme start="20230611090000 -0300" stop="20230611100000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa Alemanha MXGP</title>
   </programme>
-  <programme start="20230601020000 -0300" stop="20230601022500 -0300" channel="Band São Paulo">
-    <title lang="pt">Esporte Total</title>
-    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  <programme start="20230611100000 -0300" stop="20230611103000 -0300" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
   </programme>
-  <programme start="20230601022500 -0300" stop="20230601030000 -0300" channel="Band São Paulo">
-    <title lang="pt">Doc BandSports</title>
-    <desc lang="pt">Um programa de entrevistas com pessoas que fizeram ou fazem história no esporte brasileiro.(n)</desc>
+  <programme start="20230611103000 -0300" stop="20230611110000 -0300" channel="Band Sports">
+    <title lang="pt">The Golf Brasil</title>
   </programme>
-  <programme start="20230601030000 -0300" stop="20230601040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  <programme start="20230611110000 -0300" stop="20230611120000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa Letônia MXGP</title>
   </programme>
-  <programme start="20230601040000 -0300" stop="20230601060000 -0300" channel="Band São Paulo">
-    <title lang="pt">1º Jornal</title>
-    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+  <programme start="20230611120000 -0300" stop="20230611130000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa Alemanha MXGP</title>
   </programme>
-  <programme start="20230601060000 -0300" stop="20230601080000 -0300" channel="Band São Paulo">
-    <title lang="pt">Show da Fé</title>
-    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+  <programme start="20230611130000 -0300" stop="20230611150000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Série A2</title>
   </programme>
-  <programme start="20230601080000 -0300" stop="20230601090000 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  <programme start="20230611150000 -0300" stop="20230611154500 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
   </programme>
-  <programme start="20230601090000 -0300" stop="20230601092500 -0300" channel="Band São Paulo">
-    <title lang="pt">Bora Brasil</title>
-    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  <programme start="20230611154500 -0300" stop="20230611160000 -0300" channel="Band Sports">
+    <title lang="pt">Momento Brasil Olímpico</title>
   </programme>
-  <programme start="20230601092500 -0300" stop="20230601110000 -0300" channel="Band São Paulo">
-    <title lang="pt">The Chef</title>
-    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+  <programme start="20230611160000 -0300" stop="20230611170000 -0300" channel="Band Sports">
+    <title lang="pt">Doc. Bandsports</title>
   </programme>
-  <programme start="20230601110000 -0300" stop="20230601120000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto</title>
-    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  <programme start="20230611170000 -0300" stop="20230611173000 -0300" channel="Band Sports">
+    <title lang="pt">Supermotor</title>
   </programme>
-  <programme start="20230601120000 -0300" stop="20230601130000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jogo Aberto - Debate</title>
-    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  <programme start="20230611173000 -0300" stop="20230611210000 -0300" channel="Band Sports">
+    <title lang="pt">Nascar Cup Series</title>
   </programme>
-  <programme start="20230601130000 -0300" stop="20230601143000 -0300" channel="Band São Paulo">
-    <title lang="pt">Os Donos da Bola - SP</title>
-    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  <programme start="20230611210000 -0300" stop="20230611220000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
   </programme>
-  <programme start="20230601143000 -0300" stop="20230601160000 -0300" channel="Band São Paulo">
-    <title lang="pt">Melhor da Tarde</title>
-    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  <programme start="20230611220000 -0300" stop="20230612000000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Série A2</title>
   </programme>
-  <programme start="20230601160000 -0300" stop="20230601185000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  <programme start="20230612000000 -0300" stop="20230612020000 -0300" channel="Band Sports">
+    <title lang="pt">Mundial de Motocross: Etapa Alemanha MXGP</title>
   </programme>
-  <programme start="20230601185000 -0300" stop="20230601192000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  <programme start="20230612020000 -0300" stop="20230612053000 -0300" channel="Band Sports">
+    <title lang="pt">Nascar Cup Series</title>
   </programme>
-  <programme start="20230601192000 -0300" stop="20230601203000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  <programme start="20230612053000 -0300" stop="20230612060000 -0300" channel="Band Sports">
+    <title lang="pt">Acelerados</title>
   </programme>
-  <programme start="20230601203000 -0300" stop="20230601213000 -0300" channel="Band São Paulo">
-    <title lang="pt">Faustão na Band</title>
-    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  <programme start="20230612060000 -0300" stop="20230612063000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
   </programme>
-  <programme start="20230601213000 -0300" stop="20230602000000 -0300" channel="Band São Paulo">
-    <title lang="pt">NBA</title>
-    <desc lang="pt">As principais estrelas das quadras na tela Band. São as partidas da temporada regular da maior liga de basquete do mundo.(n)</desc>
-  </programme>
-  <programme start="20230602000000 -0300" stop="20230602005500 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
-  </programme>
-  <programme start="20230602005500 -0300" stop="20230602010000 -0300" channel="Band São Paulo">
-    <title lang="pt">Que Fim Levou?</title>
-    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
-  </programme>
-  <programme start="20230602010000 -0300" stop="20230602015500 -0300" channel="Band São Paulo">
-    <title lang="pt">Esporte Total</title>
-    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230602015500 -0300" stop="20230602030000 -0300" channel="Band São Paulo">
+  <programme start="20230612063000 -0300" stop="20230612070000 -0300" channel="Band Sports">
     <title lang="pt">Olímpicos</title>
-    <desc lang="pt">Notícias, entrevistas e tudo sobre o universo dos Jogos Olímpicos.(n)</desc>
   </programme>
-  <programme start="20230602030000 -0300" stop="20230602040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  <programme start="20230612070000 -0300" stop="20230612080000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 3: GP da Espanha</title>
   </programme>
-  <programme start="20230602040000 -0300" stop="20230602060000 -0300" channel="Band São Paulo">
+  <programme start="20230612080000 -0300" stop="20230612090000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula 2: GP da Espanha</title>
+  </programme>
+  <programme start="20230612090000 -0300" stop="20230612110000 -0300" channel="Band Sports">
+    <title lang="pt">Campeonato Carioca: Olaria x Cabofriense</title>
+  </programme>
+  <programme start="20230612110000 -0300" stop="20230612120000 -0300" channel="Band Sports">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230612120000 -0300" stop="20230612140000 -0300" channel="Band Sports">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230612140000 -0300" stop="20230612150000 -0300" channel="Band Sports">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230612150000 -0300" stop="20230612160000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230612160000 -0300" stop="20230612170000 -0300" channel="Band Sports">
+    <title lang="pt">Fórmula E: ePrix de Jacarta</title>
+  </programme>
+  <programme start="20230612170000 -0300" stop="20230612180000 -0300" channel="Band Sports">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230612180000 -0300" stop="20230612194500 -0300" channel="Band Sports">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230612194500 -0300" stop="20230612200000 -0300" channel="Band Sports">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230612200000 -0300" stop="20230612220000 -0300" channel="Band Sports">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230612220000 -0300" stop="20230612223000 -0300" channel="Band Sports">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230612223000 -0300" stop="20230612233000 -0300" channel="Band Sports">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230612233000 -0300" stop="20230613000000 -0300" channel="Band Sports">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230606040000 -0300" stop="20230606060000 -0300" channel="Band São Paulo">
     <title lang="pt">1º Jornal</title>
     <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
   </programme>
-  <programme start="20230602060000 -0300" stop="20230602080000 -0300" channel="Band São Paulo">
+  <programme start="20230606060000 -0300" stop="20230606080000 -0300" channel="Band São Paulo">
     <title lang="pt">Show da Fé</title>
     <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
   </programme>
-  <programme start="20230602080000 -0300" stop="20230602090000 -0300" channel="Band São Paulo">
+  <programme start="20230606080000 -0300" stop="20230606090000 -0300" channel="Band São Paulo">
     <title lang="pt">Bora Brasil</title>
     <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
   </programme>
-  <programme start="20230602090000 -0300" stop="20230602092500 -0300" channel="Band São Paulo">
+  <programme start="20230606090000 -0300" stop="20230606092500 -0300" channel="Band São Paulo">
     <title lang="pt">Bora Brasil</title>
     <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
   </programme>
-  <programme start="20230602092500 -0300" stop="20230602110000 -0300" channel="Band São Paulo">
+  <programme start="20230606092500 -0300" stop="20230606110000 -0300" channel="Band São Paulo">
     <title lang="pt">The Chef</title>
     <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
   </programme>
-  <programme start="20230602110000 -0300" stop="20230602120000 -0300" channel="Band São Paulo">
+  <programme start="20230606110000 -0300" stop="20230606120000 -0300" channel="Band São Paulo">
     <title lang="pt">Jogo Aberto</title>
     <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
   </programme>
-  <programme start="20230602120000 -0300" stop="20230602130000 -0300" channel="Band São Paulo">
+  <programme start="20230606120000 -0300" stop="20230606130000 -0300" channel="Band São Paulo">
     <title lang="pt">Jogo Aberto - Debate</title>
     <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
   </programme>
-  <programme start="20230602130000 -0300" stop="20230602143000 -0300" channel="Band São Paulo">
+  <programme start="20230606130000 -0300" stop="20230606143000 -0300" channel="Band São Paulo">
     <title lang="pt">Os Donos da Bola - SP</title>
     <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
   </programme>
-  <programme start="20230602143000 -0300" stop="20230602160000 -0300" channel="Band São Paulo">
+  <programme start="20230606143000 -0300" stop="20230606160000 -0300" channel="Band São Paulo">
     <title lang="pt">Melhor da Tarde</title>
     <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
   </programme>
-  <programme start="20230602160000 -0300" stop="20230602185000 -0300" channel="Band São Paulo">
+  <programme start="20230606160000 -0300" stop="20230606185000 -0300" channel="Band São Paulo">
     <title lang="pt">Brasil Urgente</title>
     <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
   </programme>
-  <programme start="20230602185000 -0300" stop="20230602192000 -0300" channel="Band São Paulo">
+  <programme start="20230606185000 -0300" stop="20230606192000 -0300" channel="Band São Paulo">
     <title lang="pt">Brasil Urgente</title>
     <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
   </programme>
-  <programme start="20230602192000 -0300" stop="20230602203000 -0300" channel="Band São Paulo">
+  <programme start="20230606192000 -0300" stop="20230606203000 -0300" channel="Band São Paulo">
     <title lang="pt">Jornal da Band</title>
     <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
   </programme>
-  <programme start="20230602203000 -0300" stop="20230602220000 -0300" channel="Band São Paulo">
+  <programme start="20230606203000 -0300" stop="20230606220000 -0300" channel="Band São Paulo">
     <title lang="pt">Faustão na Band</title>
     <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
   </programme>
-  <programme start="20230602220000 -0300" stop="20230602230000 -0300" channel="Band São Paulo">
+  <programme start="20230606220000 -0300" stop="20230606223000 -0300" channel="Band São Paulo">
     <title lang="pt">Valor da Vida</title>
     <desc lang="pt">Artur e Carolina, que não se conhecem, despertam no mesmo dia, ela de um coma e ele depois de anos desaparecido. Os dois sentem-se deslocados do mundo em que acordam, as pessoas à sua volta são as mesmas, mas tudo mudou. Eles terão que redescobrir o sentido da vida.(n)</desc>
   </programme>
-  <programme start="20230602230000 -0300" stop="20230603000000 -0300" channel="Band São Paulo">
-    <title lang="pt">Febre do Ouro</title>
-    <desc lang="pt">Um reality que acompanha três famílias do garimpo legalizado competindo entre si em uma corrida pelo ouro.(n)</desc>
+  <programme start="20230606223000 -0300" stop="20230607000000 -0300" channel="Band São Paulo">
+    <title lang="pt">MasterChef</title>
+    <desc lang="pt">Ana Paula Padrão apresenta o maior reality de culinária do mundo, que revela os novos talentos da cozinha brasileira.(n)</desc>
   </programme>
-  <programme start="20230603000000 -0300" stop="20230603005500 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Noite</title>
-    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
-  </programme>
-  <programme start="20230603005500 -0300" stop="20230603010000 -0300" channel="Band São Paulo">
-    <title lang="pt">Que Fim Levou?</title>
-    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
-  </programme>
-  <programme start="20230603010000 -0300" stop="20230603015500 -0300" channel="Band São Paulo">
-    <title lang="pt">Esporte Total</title>
-    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
-  </programme>
-  <programme start="20230603015500 -0300" stop="20230603022500 -0300" channel="Band São Paulo">
-    <title lang="pt">O Melhor do UFC</title>
-    <desc lang="pt">Uma análise dos cards, melhores momentos e os bastidores do UFC.(n)</desc>
-  </programme>
-  <programme start="20230603022500 -0300" stop="20230603030000 -0300" channel="Band São Paulo">
-    <title lang="pt">Semana Bundesliga</title>
-    <desc lang="pt">Uma análise completa e os bastidores da rodada do Campeonato Alemão.(n)</desc>
-  </programme>
-  <programme start="20230603030000 -0300" stop="20230603040000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band - reapresentação</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-  </programme>
-  <programme start="20230603040000 -0300" stop="20230603053000 -0300" channel="Band São Paulo">
-    <title lang="pt">Estação Cinema</title>
-    <desc lang="pt">MARÉ NEGRA: Kate é uma instrutora de mergulho que fica traumatizada após presenciar seu grande amigo ser morto por um tubarão. Enfrentando problemas financeiros, ela aceita a proposta de um milionário para mergulhar novamente.(n)</desc>
-  </programme>
-  <programme start="20230603053000 -0300" stop="20230603060000 -0300" channel="Band São Paulo">
-    <title lang="pt">+ INFO</title>
-    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
-  </programme>
-  <programme start="20230603060000 -0300" stop="20230603063000 -0300" channel="Band São Paulo">
-    <title lang="pt">Infomercial - Vendo na TV</title>
-    <desc lang="pt">Espaço publicitário.(n)</desc>
-  </programme>
-  <programme start="20230603063000 -0300" stop="20230603070000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Kids - Os Chocolix</title>
-    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.(n)</desc>
-  </programme>
-  <programme start="20230603070000 -0300" stop="20230603073000 -0300" channel="Band São Paulo">
-    <title lang="pt">Vem Comigo com Tuca Noronha</title>
-    <desc lang="pt">O programa apresenta os lugares mais incríveis do Brasil com dicas de turismo e gastronomia.(n)</desc>
-  </programme>
-  <programme start="20230603073000 -0300" stop="20230603073000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Kids - O Diário de Mika</title>
-    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.(n)</desc>
-  </programme>
-  <programme start="20230603073000 -0300" stop="20230603080000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Kids - O Diário de Mika</title>
-    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.(n)</desc>
-  </programme>
-  <programme start="20230603080000 -0300" stop="20230603090000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Kids - Beyblade Burst Quad Drive</title>
-    <desc lang="pt">Valt Aoi e outras lendas do Beyblade irão desafiar o Princípe Sombrio e seu incrível Quad Bey Destruction, Belfyre.\n.(n)</desc>
-  </programme>
-  <programme start="20230603090000 -0300" stop="20230603093000 -0300" channel="Band São Paulo">
-    <title lang="pt">Infomercial - Brasil Que Faz</title>
-    <desc lang="pt">Um programa de entrevistas que aborda temas relacionados ao empreendedorismo, negócios e histórias de superação.(n)</desc>
-  </programme>
-  <programme start="20230603093000 -0300" stop="20230603100000 -0300" channel="Band São Paulo">
-    <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço Publicitário.(n)</desc>
-  </programme>
-  <programme start="20230603100000 -0300" stop="20230603102000 -0300" channel="Band São Paulo">
-    <title lang="pt">Acelerados</title>
-    <desc lang="pt">Um programa especial para aqueles que amam carros, motos e muita velocidade.(n)</desc>
-  </programme>
-  <programme start="20230603102000 -0300" stop="20230603123000 -0300" channel="Band São Paulo">
-    <title lang="pt">Campeonato Alemão</title>
-    <desc lang="pt">Torneio da principal liga de futebol profissional da Alemanha, a Bundesliga.(n)</desc>
-  </programme>
-  <programme start="20230603123000 -0300" stop="20230603130000 -0300" channel="Band São Paulo">
-    <title lang="pt">Nosso Agro</title>
-    <desc lang="pt">Informação, qualificação profissional e educação aos produtores rurais de todo o país, além de divulgar as ações do setor agropecuário para toda a sociedade brasileira.(n)</desc>
-  </programme>
-  <programme start="20230603130000 -0300" stop="20230603140000 -0300" channel="Band São Paulo">
-    <title lang="pt">Fórmula 1 2023</title>
-    <desc lang="pt">As emoções da modalidade mais popular do mundo do automobilismo na tela da Band.(n)</desc>
-  </programme>
-  <programme start="20230603140000 -0300" stop="20230603160000 -0300" channel="Band São Paulo">
-    <title lang="pt">Band Esporte Clube</title>
-    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.(n)</desc>
-  </programme>
-  <programme start="20230603160000 -0300" stop="20230603185000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230603185000 -0300" stop="20230603192000 -0300" channel="Band São Paulo">
-    <title lang="pt">Brasil Urgente</title>
-    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
-  </programme>
-  <programme start="20230603192000 -0300" stop="20230603203000 -0300" channel="Band São Paulo">
-    <title lang="pt">Jornal da Band</title>
-    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
-  </programme>
-  <programme start="20230603203000 -0300" stop="20230603213000 -0300" channel="Band São Paulo">
-    <title lang="pt">Documento Band</title>
-    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo da Band.(n)</desc>
-  </programme>
-  <programme start="20230603213000 -0300" stop="20230604000000 -0300" channel="Band São Paulo">
-    <title lang="pt">NBA</title>
-    <desc lang="pt">As principais estrelas das quadras na tela Band. São as partidas da temporada regular da maior liga de basquete do mundo.(n)</desc>
-  </programme>
-  <programme start="20230604000000 -0300" stop="20230604003000 -0300" channel="Band São Paulo">
+  <programme start="20230607000000 -0300" stop="20230607003000 -0300" channel="Band São Paulo">
     <title lang="pt">Warner Play</title>
     <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
   </programme>
-  <programme start="20230604003000 -0300" stop="20230604020000 -0300" channel="Band São Paulo">
+  <programme start="20230607003000 -0300" stop="20230607012500 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  </programme>
+  <programme start="20230607012500 -0300" stop="20230607013000 -0300" channel="Band São Paulo">
+    <title lang="pt">Que Fim Levou?</title>
+    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
+  </programme>
+  <programme start="20230607013000 -0300" stop="20230607022500 -0300" channel="Band São Paulo">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230607022500 -0300" stop="20230607030000 -0300" channel="Band São Paulo">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo da Band.(n)</desc>
+  </programme>
+  <programme start="20230607030000 -0300" stop="20230607040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230607040000 -0300" stop="20230607060000 -0300" channel="Band São Paulo">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+  </programme>
+  <programme start="20230607060000 -0300" stop="20230607080000 -0300" channel="Band São Paulo">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+  </programme>
+  <programme start="20230607080000 -0300" stop="20230607090000 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230607090000 -0300" stop="20230607092500 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230607092500 -0300" stop="20230607110000 -0300" channel="Band São Paulo">
+    <title lang="pt">The Chef</title>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+  </programme>
+  <programme start="20230607110000 -0300" stop="20230607120000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230607120000 -0300" stop="20230607130000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  </programme>
+  <programme start="20230607130000 -0300" stop="20230607143000 -0300" channel="Band São Paulo">
+    <title lang="pt">Os Donos da Bola - SP</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20230607143000 -0300" stop="20230607160000 -0300" channel="Band São Paulo">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20230607160000 -0300" stop="20230607185000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230607185000 -0300" stop="20230607192000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230607192000 -0300" stop="20230607203000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230607203000 -0300" stop="20230607213000 -0300" channel="Band São Paulo">
+    <title lang="pt">Faustão na Band</title>
+    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  </programme>
+  <programme start="20230607213000 -0300" stop="20230608000000 -0300" channel="Band São Paulo">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">As principais estrelas das quadras na tela Band. São as partidas das Finals da maior liga de basquete do mundo.(n)</desc>
+  </programme>
+  <programme start="20230608000000 -0300" stop="20230608000000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  </programme>
+  <programme start="20230608000000 -0300" stop="20230608005500 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230608005500 -0300" stop="20230608010000 -0300" channel="Band São Paulo">
+    <title lang="pt">Que Fim Levou?</title>
+    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
+  </programme>
+  <programme start="20230608010000 -0300" stop="20230608015500 -0300" channel="Band São Paulo">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230608015500 -0300" stop="20230608030000 -0300" channel="Band São Paulo">
+    <title lang="pt">Doc BandSports</title>
+    <desc lang="pt">Um programa de entrevistas com pessoas que fizeram ou fazem história no esporte brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230608030000 -0300" stop="20230608040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230608040000 -0300" stop="20230608060000 -0300" channel="Band São Paulo">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+  </programme>
+  <programme start="20230608060000 -0300" stop="20230608080000 -0300" channel="Band São Paulo">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+  </programme>
+  <programme start="20230608080000 -0300" stop="20230608090000 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230608090000 -0300" stop="20230608092500 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230608092500 -0300" stop="20230608110000 -0300" channel="Band São Paulo">
+    <title lang="pt">The Chef</title>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+  </programme>
+  <programme start="20230608110000 -0300" stop="20230608120000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230608120000 -0300" stop="20230608130000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  </programme>
+  <programme start="20230608130000 -0300" stop="20230608143000 -0300" channel="Band São Paulo">
+    <title lang="pt">Os Donos da Bola - SP</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20230608143000 -0300" stop="20230608154500 -0300" channel="Band São Paulo">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20230608154500 -0300" stop="20230608180000 -0300" channel="Band São Paulo">
+    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <desc lang="pt">Torneio de futebol brasileiro com os clubes da segunda divisão.\n.(n)</desc>
+  </programme>
+  <programme start="20230608180000 -0300" stop="20230608185000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230608185000 -0300" stop="20230608192000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230608192000 -0300" stop="20230608203000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230608203000 -0300" stop="20230608220000 -0300" channel="Band São Paulo">
+    <title lang="pt">Faustão na Band</title>
+    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  </programme>
+  <programme start="20230608220000 -0300" stop="20230608220000 -0300" channel="Band São Paulo">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Artur e Carolina, que não se conhecem, despertam no mesmo dia, ela de um coma e ele depois de anos desaparecido. Os dois sentem-se deslocados do mundo em que acordam, as pessoas à sua volta são as mesmas, mas tudo mudou. Eles terão que redescobrir o sentido da vida.(n)</desc>
+  </programme>
+  <programme start="20230608220000 -0300" stop="20230608230000 -0300" channel="Band São Paulo">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Artur e Carolina, que não se conhecem, despertam no mesmo dia, ela de um coma e ele depois de anos desaparecido. Os dois sentem-se deslocados do mundo em que acordam, as pessoas à sua volta são as mesmas, mas tudo mudou. Eles terão que redescobrir o sentido da vida.(n)</desc>
+  </programme>
+  <programme start="20230608230000 -0300" stop="20230609000000 -0300" channel="Band São Paulo">
+    <title lang="pt">Linha de Combate</title>
+    <desc lang="pt">O programa mostra o dia a dia dos profissionais que estão na linha de frente combatendo o crime e salvando vidas.(n)</desc>
+  </programme>
+  <programme start="20230609000000 -0300" stop="20230609003000 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230609003000 -0300" stop="20230609012500 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  </programme>
+  <programme start="20230609012500 -0300" stop="20230609013000 -0300" channel="Band São Paulo">
+    <title lang="pt">Que Fim Levou?</title>
+    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
+  </programme>
+  <programme start="20230609013000 -0300" stop="20230609022500 -0300" channel="Band São Paulo">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230609022500 -0300" stop="20230609030000 -0300" channel="Band São Paulo">
+    <title lang="pt">Olímpicos</title>
+    <desc lang="pt">Notícias, entrevistas e tudo sobre o universo dos Jogos Olímpicos.(n)</desc>
+  </programme>
+  <programme start="20230609030000 -0300" stop="20230609040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230609040000 -0300" stop="20230609060000 -0300" channel="Band São Paulo">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+  </programme>
+  <programme start="20230609060000 -0300" stop="20230609080000 -0300" channel="Band São Paulo">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+  </programme>
+  <programme start="20230609080000 -0300" stop="20230609090000 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230609090000 -0300" stop="20230609092500 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230609092500 -0300" stop="20230609110000 -0300" channel="Band São Paulo">
+    <title lang="pt">The Chef</title>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+  </programme>
+  <programme start="20230609110000 -0300" stop="20230609120000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230609120000 -0300" stop="20230609130000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  </programme>
+  <programme start="20230609130000 -0300" stop="20230609143000 -0300" channel="Band São Paulo">
+    <title lang="pt">Os Donos da Bola - SP</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20230609143000 -0300" stop="20230609160000 -0300" channel="Band São Paulo">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20230609160000 -0300" stop="20230609185000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230609185000 -0300" stop="20230609192000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230609192000 -0300" stop="20230609203000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230609203000 -0300" stop="20230609213000 -0300" channel="Band São Paulo">
+    <title lang="pt">Faustão na Band</title>
+    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  </programme>
+  <programme start="20230609213000 -0300" stop="20230610000000 -0300" channel="Band São Paulo">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">As principais estrelas das quadras na tela Band. São as partidas das Finals da maior liga de basquete do mundo.(n)</desc>
+  </programme>
+  <programme start="20230610000000 -0300" stop="20230610000000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  </programme>
+  <programme start="20230610000000 -0300" stop="20230610005000 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230610005000 -0300" stop="20230610005500 -0300" channel="Band São Paulo">
+    <title lang="pt">Que Fim Levou?</title>
+    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
+  </programme>
+  <programme start="20230610005500 -0300" stop="20230610014500 -0300" channel="Band São Paulo">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230610014500 -0300" stop="20230610024500 -0300" channel="Band São Paulo">
+    <title lang="pt">The Ultimate Fighter 31</title>
+    <desc lang="pt">Os mais emocionantes combates da maior e mais popular organização de MMA do mundo.(n)</desc>
+  </programme>
+  <programme start="20230610024500 -0300" stop="20230610031500 -0300" channel="Band São Paulo">
+    <title lang="pt">O Melhor do UFC</title>
+    <desc lang="pt">Uma análise dos cards, melhores momentos e os bastidores do UFC.(n)</desc>
+  </programme>
+  <programme start="20230610031500 -0300" stop="20230610040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band - reapresentação</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230610040000 -0300" stop="20230610053000 -0300" channel="Band São Paulo">
+    <title lang="pt">Estação Cinema</title>
+    <desc lang="pt">OVELHA NEGRA: Ellis Whitman é um jovem de 15 anos que está deixando sua casa em Tucson, Arizona, para começar o ano letivo na escola preparatória Gates Academy, na Costa Leste dos Estados Unidos. Ellis aproveita seus últimos momentos com a mãe e com o único pai que conheceu, o excêntrico Homem Cabra.(n)</desc>
+  </programme>
+  <programme start="20230610053000 -0300" stop="20230610060000 -0300" channel="Band São Paulo">
+    <title lang="pt">+ INFO</title>
+    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20230610060000 -0300" stop="20230610063000 -0300" channel="Band São Paulo">
+    <title lang="pt">Infomercial - Vendo na TV</title>
+    <desc lang="pt">Espaço publicitário.(n)</desc>
+  </programme>
+  <programme start="20230610063000 -0300" stop="20230610070000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Kids - Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia.(n)</desc>
+  </programme>
+  <programme start="20230610070000 -0300" stop="20230610073000 -0300" channel="Band São Paulo">
+    <title lang="pt">Vem Comigo com Tuca Noronha</title>
+    <desc lang="pt">O programa apresenta os lugares mais incríveis do Brasil com dicas de turismo e gastronomia.(n)</desc>
+  </programme>
+  <programme start="20230610073000 -0300" stop="20230610080000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.(n)</desc>
+  </programme>
+  <programme start="20230610080000 -0300" stop="20230610090000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Kids - Beyblade Burst Quad Drive</title>
+    <desc lang="pt">Valt Aoi e outras lendas do Beyblade irão desafiar o Princípe Sombrio e seu incrível Quad Bey Destruction, Belfyre.\n.(n)</desc>
+  </programme>
+  <programme start="20230610090000 -0300" stop="20230610093000 -0300" channel="Band São Paulo">
+    <title lang="pt">Infomercial - Brasil Que Faz</title>
+    <desc lang="pt">Um programa de entrevistas que aborda temas relacionados ao empreendedorismo, negócios e histórias de superação.(n)</desc>
+  </programme>
+  <programme start="20230610093000 -0300" stop="20230610100000 -0300" channel="Band São Paulo">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Espaço Publicitário.(n)</desc>
+  </programme>
+  <programme start="20230610100000 -0300" stop="20230610103000 -0300" channel="Band São Paulo">
+    <title lang="pt">Acelerados</title>
+    <desc lang="pt">Um programa especial para aqueles que amam carros, motos e muita velocidade.(n)</desc>
+  </programme>
+  <programme start="20230610103000 -0300" stop="20230610110000 -0300" channel="Band São Paulo">
+    <title lang="pt">Você Torceu Aqui</title>
+    <desc lang="pt">Reviva os momentos históricos do futebol na tela do canal do esporte.(n)</desc>
+  </programme>
+  <programme start="20230610110000 -0300" stop="20230610113000 -0300" channel="Band São Paulo">
+    <title lang="pt">O Melhor do UFC</title>
+    <desc lang="pt">Uma análise dos cards, melhores momentos e os bastidores do UFC.(n)</desc>
+  </programme>
+  <programme start="20230610113000 -0300" stop="20230610120000 -0300" channel="Band São Paulo">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">Uma análise completa e os bastidores da rodada NBA.(n)</desc>
+  </programme>
+  <programme start="20230610120000 -0300" stop="20230610123000 -0300" channel="Band São Paulo">
+    <title lang="pt">Nosso Agro</title>
+    <desc lang="pt">Informação, qualificação profissional e educação aos produtores rurais de todo o país, além de divulgar as ações do setor agropecuário para toda a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20230610123000 -0300" stop="20230610160000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Esporte Clube</title>
+    <desc lang="pt">Programa semanal com reportagens, entrevistas e tudo do mundo esportivo.(n)</desc>
+  </programme>
+  <programme start="20230610160000 -0300" stop="20230610185000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230610185000 -0300" stop="20230610192000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230610192000 -0300" stop="20230610203000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230610203000 -0300" stop="20230610213000 -0300" channel="Band São Paulo">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo da Band.(n)</desc>
+  </programme>
+  <programme start="20230610213000 -0300" stop="20230610223000 -0300" channel="Band São Paulo">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.(n)</desc>
+  </programme>
+  <programme start="20230610223000 -0300" stop="20230610230000 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230610230000 -0300" stop="20230611000000 -0300" channel="Band São Paulo">
     <title lang="pt">SFT</title>
     <desc lang="pt">Evento de MMA, com transmissão das melhores lutas.(n)</desc>
   </programme>
-  <programme start="20230604020000 -0300" stop="20230604030000 -0300" channel="Band São Paulo">
+  <programme start="20230611000000 -0300" stop="20230611010000 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230611010000 -0300" stop="20230611030000 -0300" channel="Band São Paulo">
     <title lang="pt">Cine Privé</title>
-    <desc lang="pt">UM AMOR DE MASSAGISTA: Bill é um massagista profissional que vive no sul da Califórnia e tem uma vida que muitos homens gostariam de ter. Ele faz ligações domésticas para algumas das mulheres mais bonitas e ricas do sul da Califórnia, as massageia e faz amor com elas (ou o que é chamado de \"favores especiais\") e é pago por isso.(n)</desc>
+    <desc lang="pt">LADRÃO DO SEXO: Sultry Jill é uma ladra de jóias condenada, mas seu belo e rico amante Ben não tem idéia de sua personalidade cleptomaníaca. Quando as jóias de seus vizinhos começam a desaparecer, é apenas uma questão de tempo até que o gato desse ladrão sexy seja tirado da bolsa!\nPRIVACIDADE OBSCENA: Emanuelle, uma modelo mundialmente famosa, é mantida em cativeiro por Richard Tate, um fã louco. Richard a quer para si, mas Emanuelle usa seus recursos para tentar escapar.(n)</desc>
+  </programme>
+  <programme start="20230611030000 -0300" stop="20230611040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Sex Privé Club</title>
+    <desc lang="pt">Programa que aborda temas relacionados a sexo, relacionamento e bem-estar de forma respeitosa e bem-humorada, ajudando as pessoas a quebrarem tabus.(n)</desc>
+  </programme>
+  <programme start="20230611040000 -0300" stop="20230611053000 -0300" channel="Band São Paulo">
+    <title lang="pt">Cinema na Madrugada</title>
+    <desc lang="pt">FIM DA LINHA: Um segurança de shopping (ex-agente federal) leva uma vida aparentemente tranquila e longe dos dias perigosos do passado. Mas, quando ele sem querer cruza o caminho de um grande traficante, após salvar uma mulher, toda a adrenalina de sua antiga vida retorna.(n)</desc>
+  </programme>
+  <programme start="20230611053000 -0300" stop="20230611060000 -0300" channel="Band São Paulo">
+    <title lang="pt">+ INFO</title>
+    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20230611060000 -0300" stop="20230611070000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Kids - O Diário de Mika</title>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer.(n)</desc>
+  </programme>
+  <programme start="20230611070000 -0300" stop="20230611080000 -0300" channel="Band São Paulo">
+    <title lang="pt">Band Kids - Beyblade Burst Quad Drive</title>
+    <desc lang="pt">Valt Aoi e outras lendas do Beyblade irão desafiar o Princípe Sombrio e seu incrível Quad Bey Destruction, Belfyre.\n.(n)</desc>
+  </programme>
+  <programme start="20230611080000 -0300" stop="20230611100000 -0300" channel="Band São Paulo">
+    <title lang="pt">Infomercial - Hipercap</title>
+    <desc lang="pt">Sorteios para os possuidores do títulos de capitalização.(n)</desc>
+  </programme>
+  <programme start="20230611100000 -0300" stop="20230611103000 -0300" channel="Band São Paulo">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O canal do Esporte traz a cobertura completa dos campeonatos de futebol, automobilismo e basquete.(n)</desc>
+  </programme>
+  <programme start="20230611103000 -0300" stop="20230611130000 -0300" channel="Band São Paulo">
+    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <desc lang="pt">Torneio de futebol brasileiro com os clubes da segunda divisão.\n.(n)</desc>
+  </programme>
+  <programme start="20230611130000 -0300" stop="20230611150000 -0300" channel="Band São Paulo">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O canal do Esporte traz a cobertura completa dos campeonatos de futebol, automobilismo e basquete.(n)</desc>
+  </programme>
+  <programme start="20230611150000 -0300" stop="20230611200000 -0300" channel="Band São Paulo">
+    <title lang="pt">Campeonato Brasileiro Série B</title>
+    <desc lang="pt">Torneio de futebol brasileiro com os clubes da segunda divisão.\n.(n)</desc>
+  </programme>
+  <programme start="20230611200000 -0300" stop="20230611223000 -0300" channel="Band São Paulo">
+    <title lang="pt">Perrengue Na Band</title>
+    <desc lang="pt">Programa humorístico que garante muita diversão para toda a família.(n)</desc>
+  </programme>
+  <programme start="20230611223000 -0300" stop="20230612000000 -0300" channel="Band São Paulo">
+    <title lang="pt">3º Tempo</title>
+    <desc lang="pt">O mais tradicional programa pós-rodada da tv brasileira. Com reportagens nos gramados, nos vestiários e muita opinião sobre os lances polêmicos e o rumo dos campeonatos.(n)</desc>
+  </programme>
+  <programme start="20230612000000 -0300" stop="20230612000000 -0300" channel="Band São Paulo">
+    <title lang="pt">Canal Livre</title>
+    <desc lang="pt">Momento de entrevista e análise com personalidades do mundo político, econômico, cultural, esportivo, científico e empresarial.(n)</desc>
+  </programme>
+  <programme start="20230612000000 -0300" stop="20230612010000 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230612010000 -0300" stop="20230612014500 -0300" channel="Band São Paulo">
+    <title lang="pt">Show Business</title>
+    <desc lang="pt">Entrevistas com personalidades do mundo empresarial, politico e cultural. Com foco principal na economia, nos negócios e na administração pública.(n)</desc>
+  </programme>
+  <programme start="20230612014500 -0300" stop="20230612021500 -0300" channel="Band São Paulo">
+    <title lang="pt">+ INFO</title>
+    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20230612021500 -0300" stop="20230612040000 -0300" channel="Band São Paulo">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt">AGENTES DUPLOS: Danny Gallagher um desacreditado detetive da narcótico recém-saído da prisão, busca vingança da pessoa responsável pela a acusação que o levou a ser preso e que matou seu parceiro. Em busca da verdade sobre o que aconteceu naquela noite ele investiga um misterioso assassinato. Gallagher logo descobre que o assassinato envolve uma grande conspiração internacional.(n)</desc>
+  </programme>
+  <programme start="20230612040000 -0300" stop="20230612060000 -0300" channel="Band São Paulo">
+    <title lang="pt">1º Jornal</title>
+    <desc lang="pt">As principais notícias do Brasil e do Mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.(n)</desc>
+  </programme>
+  <programme start="20230612060000 -0300" stop="20230612080000 -0300" channel="Band São Paulo">
+    <title lang="pt">Show da Fé</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+  </programme>
+  <programme start="20230612080000 -0300" stop="20230612090000 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230612090000 -0300" stop="20230612092500 -0300" channel="Band São Paulo">
+    <title lang="pt">Bora Brasil</title>
+    <desc lang="pt">As principais informações do Brasil e do Mundo com leveza, interatividade e credibilidade.(n)</desc>
+  </programme>
+  <programme start="20230612092500 -0300" stop="20230612110000 -0300" channel="Band São Paulo">
+    <title lang="pt">The Chef</title>
+    <desc lang="pt">Programa culinário com as maiores receitas de Edu Guedes.(n)</desc>
+  </programme>
+  <programme start="20230612110000 -0300" stop="20230612120000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto</title>
+    <desc lang="pt">Notícias, debates diários e tudo o que você precisa saber sobre o futebol e os demais esportes no Brasil e ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230612120000 -0300" stop="20230612130000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jogo Aberto - Debate</title>
+    <desc lang="pt">Depois do noticiário é hora de debater as novidades. O programa reúne jornalistas e esportistas para falar sobre o que tem rolado de mais quente no futebol do Brasil e do mundo e nos demais esportes populares.(n)</desc>
+  </programme>
+  <programme start="20230612130000 -0300" stop="20230612143000 -0300" channel="Band São Paulo">
+    <title lang="pt">Os Donos da Bola - SP</title>
+    <desc lang="pt">O programa de debate sobre o mundo do futebol mais bem humorado da TV.(n)</desc>
+  </programme>
+  <programme start="20230612143000 -0300" stop="20230612160000 -0300" channel="Band São Paulo">
+    <title lang="pt">Melhor da Tarde</title>
+    <desc lang="pt">Dicas de bem-estar, culinária, fofocas, astrologia e muito mais. Todo dia, uma tarde diferente com um time completo de colaboradores.(n)</desc>
+  </programme>
+  <programme start="20230612160000 -0300" stop="20230612185000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230612185000 -0300" stop="20230612192000 -0300" channel="Band São Paulo">
+    <title lang="pt">Brasil Urgente</title>
+    <desc lang="pt">Os acontecimentos do dia, com foco na segurança, no transporte, na saúde, no trabalho e no comportamento do povo Brasileiro.(n)</desc>
+  </programme>
+  <programme start="20230612192000 -0300" stop="20230612203000 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Noticiário diário que apresenta os principais acontecimentos no Brasil e no Mundo com neutralidade e profissionalismo.(n)</desc>
+  </programme>
+  <programme start="20230612203000 -0300" stop="20230612220000 -0300" channel="Band São Paulo">
+    <title lang="pt">Faustão na Band</title>
+    <desc lang="pt">Com quadros consagrados e inéditos, Faustão traz o melhor do entretenimento para as noites da Band.(n)</desc>
+  </programme>
+  <programme start="20230612220000 -0300" stop="20230612230000 -0300" channel="Band São Paulo">
+    <title lang="pt">Valor da Vida</title>
+    <desc lang="pt">Artur e Carolina, que não se conhecem, despertam no mesmo dia, ela de um coma e ele depois de anos desaparecido. Os dois sentem-se deslocados do mundo em que acordam, as pessoas à sua volta são as mesmas, mas tudo mudou. Eles terão que redescobrir o sentido da vida.(n)</desc>
+  </programme>
+  <programme start="20230612230000 -0300" stop="20230613000000 -0300" channel="Band São Paulo">
+    <title lang="pt">Sessão Especial</title>
+    <desc lang="pt">3 NINJAS CONTRA-ATACAM: Os irmãos ninjas Rocky, Colt e Tum Tum ficam sabendo que seu avô está em perigo e vão até o Japão para ajudá-lo. Como as coisas para eles nunca são fáceis, eles acabam perseguidos por um trio de ladrões e ninjas muito bem treinados.\n.(n)</desc>
+  </programme>
+  <programme start="20230613000000 -0300" stop="20230613004000 -0300" channel="Band São Paulo">
+    <title lang="pt">Warner Play</title>
+    <desc lang="pt">As principais notícias do mundo dos games, filmes e cenário geek!(n)</desc>
+  </programme>
+  <programme start="20230613004000 -0300" stop="20230613013500 -0300" channel="Band São Paulo">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no mundo.(n)</desc>
+  </programme>
+  <programme start="20230613013500 -0300" stop="20230613014000 -0300" channel="Band São Paulo">
+    <title lang="pt">Que Fim Levou?</title>
+    <desc lang="pt">A memoria do esporte brasileiro em destaque.(n)</desc>
+  </programme>
+  <programme start="20230613014000 -0300" stop="20230613023500 -0300" channel="Band São Paulo">
+    <title lang="pt">Esporte Total</title>
+    <desc lang="pt">Um resumo das últimas rodadas do futebol brasileiro e internacional e tudo sobre as modalidades esportivas ao redor do mundo.(n)</desc>
+  </programme>
+  <programme start="20230613023500 -0300" stop="20230613030000 -0300" channel="Band São Paulo">
+    <title lang="pt">+ INFO</title>
+    <desc lang="pt">Reportagens especiais sobre todos os assuntos, do Brasil e do mundo.(n)</desc>
+  </programme>
+  <programme start="20230606090000 -0300" stop="20230606125500 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+  </programme>
+  <programme start="20230606125500 -0300" stop="20230606160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20230606160000 -0300" stop="20230606180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais</title>
+  </programme>
+  <programme start="20230606180000 -0300" stop="20230606200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230606200000 -0300" stop="20230606220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230606220000 -0300" stop="20230606233000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230606233000 -0300" stop="20230607000000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D’avila</title>
+  </programme>
+  <programme start="20230607000000 -0300" stop="20230607013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230607013000 -0300" stop="20230607033000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230607033000 -0300" stop="20230607040000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230607040000 -0300" stop="20230607043000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D’avila</title>
+  </programme>
+  <programme start="20230607043000 -0300" stop="20230607060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230607060000 -0300" stop="20230607090000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Ponto</title>
+  </programme>
+  <programme start="20230607090000 -0300" stop="20230607125500 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+  </programme>
+  <programme start="20230607125500 -0300" stop="20230607160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20230607160000 -0300" stop="20230607180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais</title>
+  </programme>
+  <programme start="20230607180000 -0300" stop="20230607200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230607200000 -0300" stop="20230607220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230607220000 -0300" stop="20230607233000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230607233000 -0300" stop="20230608000000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+  </programme>
+  <programme start="20230608000000 -0300" stop="20230608013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230608013000 -0300" stop="20230608033000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230608033000 -0300" stop="20230608040000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230608040000 -0300" stop="20230608043000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+  </programme>
+  <programme start="20230608043000 -0300" stop="20230608060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230608060000 -0300" stop="20230608090000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Ponto</title>
+  </programme>
+  <programme start="20230608090000 -0300" stop="20230608125500 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+  </programme>
+  <programme start="20230608125500 -0300" stop="20230608160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20230608160000 -0300" stop="20230608180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais</title>
+  </programme>
+  <programme start="20230608180000 -0300" stop="20230608200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230608200000 -0300" stop="20230608220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230608220000 -0300" stop="20230608230000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230608230000 -0300" stop="20230609000000 -0300" channel="Globo News">
+    <title lang="pt">Central Globonews</title>
+  </programme>
+  <programme start="20230609000000 -0300" stop="20230609013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609013000 -0300" stop="20230609033000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230609033000 -0300" stop="20230609040000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609040000 -0300" stop="20230609050000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230609050000 -0300" stop="20230609060000 -0300" channel="Globo News">
+    <title lang="pt">Central Globonews</title>
+  </programme>
+  <programme start="20230609060000 -0300" stop="20230609070000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609070000 -0300" stop="20230609080000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609080000 -0300" stop="20230609090000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609090000 -0300" stop="20230609100000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230609100000 -0300" stop="20230609123000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609123000 -0300" stop="20230609140000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609140000 -0300" stop="20230609150000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609150000 -0300" stop="20230609163000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609163000 -0300" stop="20230609170000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D’avila</title>
+  </programme>
+  <programme start="20230609170000 -0300" stop="20230609180000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609180000 -0300" stop="20230609200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609200000 -0300" stop="20230609210000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230609210000 -0300" stop="20230609220000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230609220000 -0300" stop="20230609230000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230609230000 -0300" stop="20230610000000 -0300" channel="Globo News">
+    <title lang="pt">Conversa com Bial</title>
+  </programme>
+  <programme start="20230610000000 -0300" stop="20230610013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610013000 -0300" stop="20230610023000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230610023000 -0300" stop="20230610030000 -0300" channel="Globo News">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+  </programme>
+  <programme start="20230610030000 -0300" stop="20230610043000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610043000 -0300" stop="20230610050000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+  </programme>
+  <programme start="20230610050000 -0300" stop="20230610060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230610060000 -0300" stop="20230610063000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610063000 -0300" stop="20230610071000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230610071000 -0300" stop="20230610080000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610080000 -0300" stop="20230610100000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610100000 -0300" stop="20230610110000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610110000 -0300" stop="20230610120000 -0300" channel="Globo News">
+    <title lang="pt">Globo Rural</title>
+  </programme>
+  <programme start="20230610120000 -0300" stop="20230610142000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610142000 -0300" stop="20230610150000 -0300" channel="Globo News">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20230610150000 -0300" stop="20230610170000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610170000 -0300" stop="20230610180000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+  </programme>
+  <programme start="20230610180000 -0300" stop="20230610193000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610193000 -0300" stop="20230610200000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Internacional</title>
+  </programme>
+  <programme start="20230610200000 -0300" stop="20230610210000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610210000 -0300" stop="20230610213000 -0300" channel="Globo News">
+    <title lang="pt">Cidades e Soluções</title>
+  </programme>
+  <programme start="20230610213000 -0300" stop="20230610220000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230610220000 -0300" stop="20230610230000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230610230000 -0300" stop="20230611003000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Documentário</title>
+  </programme>
+  <programme start="20230611003000 -0300" stop="20230611030000 -0300" channel="Globo News">
+    <title lang="pt">Fantástico</title>
+  </programme>
+  <programme start="20230611030000 -0300" stop="20230611042000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230611042000 -0300" stop="20230611050000 -0300" channel="Globo News">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+  </programme>
+  <programme start="20230611050000 -0300" stop="20230611060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230611060000 -0300" stop="20230611090000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Ponto</title>
+  </programme>
+  <programme start="20230611090000 -0300" stop="20230611125500 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+  </programme>
+  <programme start="20230611125500 -0300" stop="20230611160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20230611160000 -0300" stop="20230611180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais</title>
+  </programme>
+  <programme start="20230611180000 -0300" stop="20230611200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230611200000 -0300" stop="20230611220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230611220000 -0300" stop="20230612000000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230612000000 -0300" stop="20230612013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230612013000 -0300" stop="20230612033000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230612033000 -0300" stop="20230612040000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230612040000 -0300" stop="20230612060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230612060000 -0300" stop="20230612090000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Em Ponto</title>
+  </programme>
+  <programme start="20230612090000 -0300" stop="20230612125500 -0300" channel="Globo News">
+    <title lang="pt">Conexão GloboNews</title>
+  </programme>
+  <programme start="20230612125500 -0300" stop="20230612160000 -0300" channel="Globo News">
+    <title lang="pt">Estúdio i</title>
+  </programme>
+  <programme start="20230612160000 -0300" stop="20230612180000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Mais</title>
+  </programme>
+  <programme start="20230612180000 -0300" stop="20230612200000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews</title>
+  </programme>
+  <programme start="20230612200000 -0300" stop="20230612220000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews em Pauta</title>
+  </programme>
+  <programme start="20230612220000 -0300" stop="20230612233000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+  </programme>
+  <programme start="20230612233000 -0300" stop="20230613000000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D’avila</title>
+  </programme>
+  <programme start="20230606084500 -0300" stop="20230606100000 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+  </programme>
+  <programme start="20230606100000 -0300" stop="20230606123000 -0300" channel="SporTV">
+    <title lang="pt">Redação SporTV</title>
+  </programme>
+  <programme start="20230606123000 -0300" stop="20230606130000 -0300" channel="SporTV">
+    <title lang="pt">Tá On</title>
+  </programme>
+  <programme start="20230606130000 -0300" stop="20230606153000 -0300" channel="SporTV">
+    <title lang="pt">Seleção SporTV</title>
+  </programme>
+  <programme start="20230606153000 -0300" stop="20230606161500 -0300" channel="SporTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230606161500 -0300" stop="20230606170000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230606170000 -0300" stop="20230606183000 -0300" channel="SporTV">
+    <title lang="pt">Tá na Área</title>
+  </programme>
+  <programme start="20230606183000 -0300" stop="20230606210000 -0300" channel="SporTV">
+    <title lang="pt">Brasileiro Série B: Tombense x Vitória</title>
+  </programme>
+  <programme start="20230606210000 -0300" stop="20230606233000 -0300" channel="SporTV">
+    <title lang="pt">Brasileiro Série B: Atlético-GO x Ceará</title>
+  </programme>
+  <programme start="20230606233000 -0300" stop="20230607010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20230607010000 -0300" stop="20230607070000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607070000 -0300" stop="20230607084500 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607084500 -0300" stop="20230607100000 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+  </programme>
+  <programme start="20230607100000 -0300" stop="20230607123000 -0300" channel="SporTV">
+    <title lang="pt">Redação SporTV</title>
+  </programme>
+  <programme start="20230607123000 -0300" stop="20230607130000 -0300" channel="SporTV">
+    <title lang="pt">Tá On</title>
+  </programme>
+  <programme start="20230607130000 -0300" stop="20230607160000 -0300" channel="SporTV">
+    <title lang="pt">Seleção SporTV</title>
+  </programme>
+  <programme start="20230607160000 -0300" stop="20230607164500 -0300" channel="SporTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230607164500 -0300" stop="20230607170000 -0300" channel="SporTV">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20230607170000 -0300" stop="20230607180000 -0300" channel="SporTV">
+    <title lang="pt">Tá na Área</title>
+  </programme>
+  <programme start="20230607180000 -0300" stop="20230607213000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230607213000 -0300" stop="20230607233000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230607233000 -0300" stop="20230608010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20230608010000 -0300" stop="20230608070000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230608070000 -0300" stop="20230608084500 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230608084500 -0300" stop="20230608100000 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+  </programme>
+  <programme start="20230608100000 -0300" stop="20230608123000 -0300" channel="SporTV">
+    <title lang="pt">Redação SporTV</title>
+  </programme>
+  <programme start="20230608123000 -0300" stop="20230608130000 -0300" channel="SporTV">
+    <title lang="pt">Tá On</title>
+  </programme>
+  <programme start="20230608130000 -0300" stop="20230608160000 -0300" channel="SporTV">
+    <title lang="pt">Seleção SporTV</title>
+  </programme>
+  <programme start="20230608160000 -0300" stop="20230608164500 -0300" channel="SporTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230608164500 -0300" stop="20230608170000 -0300" channel="SporTV">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20230608170000 -0300" stop="20230608180000 -0300" channel="SporTV">
+    <title lang="pt">Tá na Área</title>
+  </programme>
+  <programme start="20230608180000 -0300" stop="20230608213000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230608213000 -0300" stop="20230608233000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230608233000 -0300" stop="20230609010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20230609010000 -0300" stop="20230609070000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230609070000 -0300" stop="20230609084500 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230609084500 -0300" stop="20230609100000 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+  </programme>
+  <programme start="20230609100000 -0300" stop="20230609123000 -0300" channel="SporTV">
+    <title lang="pt">Redação SporTV</title>
+  </programme>
+  <programme start="20230609123000 -0300" stop="20230609130000 -0300" channel="SporTV">
+    <title lang="pt">Tá On</title>
+  </programme>
+  <programme start="20230609130000 -0300" stop="20230609160000 -0300" channel="SporTV">
+    <title lang="pt">Seleção SporTV</title>
+  </programme>
+  <programme start="20230609160000 -0300" stop="20230609164500 -0300" channel="SporTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230609164500 -0300" stop="20230609170000 -0300" channel="SporTV">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20230609170000 -0300" stop="20230609180000 -0300" channel="SporTV">
+    <title lang="pt">Tá na Área</title>
+  </programme>
+  <programme start="20230609180000 -0300" stop="20230609213000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230609213000 -0300" stop="20230609233000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230609233000 -0300" stop="20230610010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20230610010000 -0300" stop="20230610070000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230610070000 -0300" stop="20230610120000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230610120000 -0300" stop="20230610150000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230610150000 -0300" stop="20230610160000 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+  </programme>
+  <programme start="20230610160000 -0300" stop="20230610183000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230610183000 -0300" stop="20230610210000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230610210000 -0300" stop="20230610230000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20230610230000 -0300" stop="20230611010000 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230611010000 -0300" stop="20230611020000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: América-MG x Corinthians</title>
+  </programme>
+  <programme start="20230611020000 -0300" stop="20230611030000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20230611030000 -0300" stop="20230611040000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Santos x Internacional</title>
+  </programme>
+  <programme start="20230611040000 -0300" stop="20230611050000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Fortaleza x Bahia</title>
+  </programme>
+  <programme start="20230611050000 -0300" stop="20230611060000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: América-MG x Corinthians</title>
+  </programme>
+  <programme start="20230611060000 -0300" stop="20230611070000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Santos x Internacional</title>
+  </programme>
+  <programme start="20230611070000 -0300" stop="20230611075500 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20230611075500 -0300" stop="20230611090000 -0300" channel="SporTV">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230611090000 -0300" stop="20230611095500 -0300" channel="SporTV">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230611095500 -0300" stop="20230611140000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230611140000 -0300" stop="20230611163000 -0300" channel="SporTV">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230611163000 -0300" stop="20230611173000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20230611173000 -0300" stop="20230611174500 -0300" channel="SporTV">
+    <title lang="pt">Giro da Rodada</title>
+  </programme>
+  <programme start="20230611174500 -0300" stop="20230611203000 -0300" channel="SporTV">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230611203000 -0300" stop="20230611223000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes</title>
+  </programme>
+  <programme start="20230611223000 -0300" stop="20230611233000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Grêmio x São Paulo</title>
+  </programme>
+  <programme start="20230611233000 -0300" stop="20230612003000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Palmeiras x Coritiba</title>
+  </programme>
+  <programme start="20230612003000 -0300" stop="20230612013000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Fluminense x Bragantino</title>
+  </programme>
+  <programme start="20230612013000 -0300" stop="20230612023000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Goiás x Cuiabá</title>
+  </programme>
+  <programme start="20230612023000 -0300" stop="20230612033000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: América-MG x Corinthians</title>
+  </programme>
+  <programme start="20230612033000 -0300" stop="20230612043000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Cruzeiro x Atlético-MG</title>
+  </programme>
+  <programme start="20230612043000 -0300" stop="20230612053000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Santos x Internacional</title>
+  </programme>
+  <programme start="20230612053000 -0300" stop="20230612063000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Fortaleza x Bahia</title>
+  </programme>
+  <programme start="20230612063000 -0300" stop="20230612073000 -0300" channel="SporTV">
+    <title lang="pt">Brasileirão: Palmeiras x Coritiba</title>
+  </programme>
+  <programme start="20230612073000 -0300" stop="20230612084500 -0300" channel="SporTV">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230612084500 -0300" stop="20230612100000 -0300" channel="SporTV">
+    <title lang="pt">SporTV News</title>
+  </programme>
+  <programme start="20230612100000 -0300" stop="20230612123000 -0300" channel="SporTV">
+    <title lang="pt">Redação SporTV</title>
+  </programme>
+  <programme start="20230612123000 -0300" stop="20230612130000 -0300" channel="SporTV">
+    <title lang="pt">Tá On</title>
+  </programme>
+  <programme start="20230612130000 -0300" stop="20230612160000 -0300" channel="SporTV">
+    <title lang="pt">Seleção SporTV</title>
+  </programme>
+  <programme start="20230612160000 -0300" stop="20230612164500 -0300" channel="SporTV">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20230612164500 -0300" stop="20230612170000 -0300" channel="SporTV">
+    <title lang="pt">Baú do Esporte</title>
+  </programme>
+  <programme start="20230612170000 -0300" stop="20230612180000 -0300" channel="SporTV">
+    <title lang="pt">Tá na Área</title>
+  </programme>
+  <programme start="20230612180000 -0300" stop="20230612213000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230612213000 -0300" stop="20230612233000 -0300" channel="SporTV">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230612233000 -0300" stop="20230613013000 -0300" channel="SporTV">
+    <title lang="pt">Boleiragem</title>
+  </programme>
+  <programme start="20230606090000 -0300" stop="20230606110000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230606110000 -0300" stop="20230606120000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Society</title>
+  </programme>
+  <programme start="20230606120000 -0300" stop="20230606130000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Society</title>
+  </programme>
+  <programme start="20230606130000 -0300" stop="20230606150000 -0300" channel="SporTV 2">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230606150000 -0300" stop="20230606172000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230606172000 -0300" stop="20230606193000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Masculino: Itália x Argentina</title>
+  </programme>
+  <programme start="20230606193000 -0300" stop="20230606204500 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230606204500 -0300" stop="20230606230000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Masculino: Canadá x Cuba</title>
+  </programme>
+  <programme start="20230606230000 -0300" stop="20230607010000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230607010000 -0300" stop="20230607030000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230607030000 -0300" stop="20230607033000 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230607033000 -0300" stop="20230607053000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: São Paulo x Franca</title>
+  </programme>
+  <programme start="20230607053000 -0300" stop="20230607063000 -0300" channel="SporTV 2">
+    <title lang="pt">Mundial de Vôlei de Praia: Final Feminina</title>
+  </programme>
+  <programme start="20230607063000 -0300" stop="20230607073000 -0300" channel="SporTV 2">
+    <title lang="pt">Mundial de Vôlei de Praia: Final Masculina</title>
+  </programme>
+  <programme start="20230607073000 -0300" stop="20230607093000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230607093000 -0300" stop="20230607100000 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230607100000 -0300" stop="20230607120000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: São Paulo x Franca</title>
+  </programme>
+  <programme start="20230607120000 -0300" stop="20230607140000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230607140000 -0300" stop="20230607150000 -0300" channel="SporTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607150000 -0300" stop="20230607160000 -0300" channel="SporTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607160000 -0300" stop="20230607172000 -0300" channel="SporTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607172000 -0300" stop="20230607193000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Masculino: EUA x Holanda</title>
+  </programme>
+  <programme start="20230607193000 -0300" stop="20230607203000 -0300" channel="SporTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607203000 -0300" stop="20230607230000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Masculino: Brasil x Alemanha</title>
+  </programme>
+  <programme start="20230607230000 -0300" stop="20230608000000 -0300" channel="SporTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230608000000 -0300" stop="20230608010000 -0300" channel="SporTV 2">
+    <title lang="pt">World At Their Feet</title>
+  </programme>
+  <programme start="20230608010000 -0300" stop="20230608030000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Masculino: Brasil x Alemanha</title>
+  </programme>
+  <programme start="20230608030000 -0300" stop="20230608050000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230608050000 -0300" stop="20230608060000 -0300" channel="SporTV 2">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230608060000 -0300" stop="20230609013000 -0300" channel="SporTV 2">
+    <title lang="pt">World At Their Feet</title>
+  </programme>
+  <programme start="20230609013000 -0300" stop="20230609033000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230609033000 -0300" stop="20230609053000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: São Paulo x Franca</title>
+  </programme>
+  <programme start="20230609053000 -0300" stop="20230609060000 -0300" channel="SporTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+  </programme>
+  <programme start="20230609060000 -0300" stop="20230609063000 -0300" channel="SporTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+  </programme>
+  <programme start="20230609063000 -0300" stop="20230609070000 -0300" channel="SporTV 2">
+    <title lang="pt">Sem Bloqueio</title>
+  </programme>
+  <programme start="20230609070000 -0300" stop="20230609090000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Holanda</title>
+  </programme>
+  <programme start="20230609090000 -0300" stop="20230609113000 -0300" channel="SporTV 2">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230609113000 -0300" stop="20230609135000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Holanda</title>
+  </programme>
+  <programme start="20230609135000 -0300" stop="20230609160000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: EUA x Itália</title>
+  </programme>
+  <programme start="20230609160000 -0300" stop="20230609170000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230609170000 -0300" stop="20230609180000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230609180000 -0300" stop="20230609183000 -0300" channel="SporTV 2">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20230609183000 -0300" stop="20230609210000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230609210000 -0300" stop="20230609231000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230609231000 -0300" stop="20230610002500 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230610002500 -0300" stop="20230610024000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rep Dominicana</title>
+  </programme>
+  <programme start="20230610024000 -0300" stop="20230610033000 -0300" channel="SporTV 2">
+    <title lang="pt">World At Their Feet</title>
+  </programme>
+  <programme start="20230610033000 -0300" stop="20230610053000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230610053000 -0300" stop="20230610073000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: São Paulo x Franca</title>
+  </programme>
+  <programme start="20230610073000 -0300" stop="20230610093000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rep Dominicana</title>
+  </programme>
+  <programme start="20230610093000 -0300" stop="20230610103000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Quartas de Final Feminina</title>
+  </programme>
+  <programme start="20230610103000 -0300" stop="20230610113000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Quartas de Final Feminina</title>
+  </programme>
+  <programme start="20230610113000 -0300" stop="20230610123000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Quartas de Final Masculina</title>
+  </programme>
+  <programme start="20230610123000 -0300" stop="20230610133000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Quartas de Final Masculina</title>
+  </programme>
+  <programme start="20230610133000 -0300" stop="20230610144000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230610144000 -0300" stop="20230610170000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: São Paulo x Franca</title>
+  </programme>
+  <programme start="20230610170000 -0300" stop="20230610190000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rep Dominicana</title>
+  </programme>
+  <programme start="20230610190000 -0300" stop="20230610210000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230610210000 -0300" stop="20230610220000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230610220000 -0300" stop="20230611002500 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Brasil x Rep Dominicana</title>
+  </programme>
+  <programme start="20230611002500 -0300" stop="20230611024000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230611024000 -0300" stop="20230611033000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230611033000 -0300" stop="20230611040000 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230611040000 -0300" stop="20230611050000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Feminina</title>
+  </programme>
+  <programme start="20230611050000 -0300" stop="20230611060000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Feminina</title>
+  </programme>
+  <programme start="20230611060000 -0300" stop="20230611070000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Masculina</title>
+  </programme>
+  <programme start="20230611070000 -0300" stop="20230611080000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Semifinal Masculina</title>
+  </programme>
+  <programme start="20230611080000 -0300" stop="20230611083000 -0300" channel="SporTV 2">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230611083000 -0300" stop="20230611093000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Disputa de 3º Lugar Feminino</title>
+  </programme>
+  <programme start="20230611093000 -0300" stop="20230611103000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Disputa de 3º Lugar Masculino</title>
+  </programme>
+  <programme start="20230611103000 -0300" stop="20230611113000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Final Feminina</title>
+  </programme>
+  <programme start="20230611113000 -0300" stop="20230611123000 -0300" channel="SporTV 2">
+    <title lang="pt">Circuito Mundial de Vôlei de Praia: Final Masculina</title>
+  </programme>
+  <programme start="20230611123000 -0300" stop="20230611135000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230611135000 -0300" stop="20230611160000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: EUA x Turquia</title>
+  </programme>
+  <programme start="20230611160000 -0300" stop="20230611170000 -0300" channel="SporTV 2">
+    <title lang="pt">Porsche Sprint Challenge: 3ª Etapa</title>
+  </programme>
+  <programme start="20230611170000 -0300" stop="20230611180000 -0300" channel="SporTV 2">
+    <title lang="pt">Porsche Sprint Challenge: 3ª Etapa</title>
+  </programme>
+  <programme start="20230611180000 -0300" stop="20230611200000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230611200000 -0300" stop="20230611220000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230611220000 -0300" stop="20230612000000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230612000000 -0300" stop="20230612010000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230612010000 -0300" stop="20230612020000 -0300" channel="SporTV 2">
+    <title lang="pt">World At Their Feet</title>
+  </programme>
+  <programme start="20230612020000 -0300" stop="20230612040000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230612040000 -0300" stop="20230612060000 -0300" channel="SporTV 2">
+    <title lang="pt">Diamond League</title>
+  </programme>
+  <programme start="20230612060000 -0300" stop="20230612070000 -0300" channel="SporTV 2">
+    <title lang="pt">World At Their Feet</title>
+  </programme>
+  <programme start="20230612070000 -0300" stop="20230612080000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230612080000 -0300" stop="20230612100000 -0300" channel="SporTV 2">
+    <title lang="pt">Liga das Nações de Vôlei Feminino: Croácia x Brasil</title>
+  </programme>
+  <programme start="20230612100000 -0300" stop="20230612110000 -0300" channel="SporTV 2">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230612110000 -0300" stop="20230612120000 -0300" channel="SporTV 2">
+    <title lang="pt">Ça VA Paris</title>
+  </programme>
+  <programme start="20230612120000 -0300" stop="20230612123000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Quartas de Final</title>
+  </programme>
+  <programme start="20230612123000 -0300" stop="20230612130000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Quartas de Final</title>
+  </programme>
+  <programme start="20230612130000 -0300" stop="20230612133000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Quartas de Final</title>
+  </programme>
+  <programme start="20230612133000 -0300" stop="20230612140000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Quartas de Final</title>
+  </programme>
+  <programme start="20230612140000 -0300" stop="20230612143000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Quartas de Final</title>
+  </programme>
+  <programme start="20230612143000 -0300" stop="20230612150000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Quartas de Final</title>
+  </programme>
+  <programme start="20230612150000 -0300" stop="20230612170000 -0300" channel="SporTV 2">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230612170000 -0300" stop="20230612183000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa Truck</title>
+  </programme>
+  <programme start="20230612183000 -0300" stop="20230612190000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Semifinal Feminina</title>
+  </programme>
+  <programme start="20230612190000 -0300" stop="20230612193000 -0300" channel="SporTV 2">
+    <title lang="pt">Copa do Mundo de Basquete 3x3: Semifinal Feminina</title>
+  </programme>
+  <programme start="20230612193000 -0300" stop="20230612200000 -0300" channel="SporTV 2">
+    <title lang="pt">Basquete 3x3: Semifinal Masculina</title>
+  </programme>
+  <programme start="20230612200000 -0300" stop="20230612203000 -0300" channel="SporTV 2">
+    <title lang="pt">Basquete 3x3: Semifinal Masculina</title>
+  </programme>
+  <programme start="20230612203000 -0300" stop="20230612210000 -0300" channel="SporTV 2">
+    <title lang="pt">Basquete 3x3: Disputa de 3º Lugar Feminina</title>
+  </programme>
+  <programme start="20230612210000 -0300" stop="20230612213000 -0300" channel="SporTV 2">
+    <title lang="pt">Basquete 3x3: Final Feminina</title>
+  </programme>
+  <programme start="20230612213000 -0300" stop="20230612220000 -0300" channel="SporTV 2">
+    <title lang="pt">Basquete 3x3: Disputa de 3º Lugar Masculina</title>
+  </programme>
+  <programme start="20230612220000 -0300" stop="20230612223000 -0300" channel="SporTV 2">
+    <title lang="pt">Basquete 3x3: Final Masculina</title>
+  </programme>
+  <programme start="20230612223000 -0300" stop="20230613003000 -0300" channel="SporTV 2">
+    <title lang="pt">NBB: São Paulo x Franca</title>
+  </programme>
+  <programme start="20230606070000 -0300" stop="20230606100000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de Final Feminina</title>
+  </programme>
+  <programme start="20230606100000 -0300" stop="20230606130000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de FInal Masculina</title>
+  </programme>
+  <programme start="20230606130000 -0300" stop="20230606164500 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de Final Feminina</title>
+  </programme>
+  <programme start="20230606164500 -0300" stop="20230606190000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de FInal Masculina</title>
+  </programme>
+  <programme start="20230606190000 -0300" stop="20230606210000 -0300" channel="SporTV 3">
+    <title lang="pt">Brasileiro Série B: Ponte Preta x ABC-RN</title>
+  </programme>
+  <programme start="20230606210000 -0300" stop="20230606233000 -0300" channel="SporTV 3">
+    <title lang="pt">Brasileiro Série B: Botafogo-SP x Ituano</title>
+  </programme>
+  <programme start="20230606233000 -0300" stop="20230607010000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230607010000 -0300" stop="20230607033000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230607033000 -0300" stop="20230607055000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230607055000 -0300" stop="20230607070000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de Final Duplas</title>
+  </programme>
+  <programme start="20230607070000 -0300" stop="20230607100000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de Final Feminina</title>
+  </programme>
+  <programme start="20230607100000 -0300" stop="20230607130000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Quartas de FInal Masculina</title>
+  </programme>
+  <programme start="20230607130000 -0300" stop="20230607164500 -0300" channel="SporTV 3">
+    <title lang="pt">VT de Eventos</title>
+  </programme>
+  <programme start="20230607164500 -0300" stop="20230607190000 -0300" channel="SporTV 3">
+    <title lang="pt">Evento Ao Vivo</title>
+  </programme>
+  <programme start="20230607190000 -0300" stop="20230607210000 -0300" channel="SporTV 3">
+    <title lang="pt">Brasileiro Série B: Novorizontino x Guarani</title>
+  </programme>
+  <programme start="20230607210000 -0300" stop="20230608003000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+  </programme>
+  <programme start="20230608003000 -0300" stop="20230608023000 -0300" channel="SporTV 3">
+    <title lang="pt">One Friday Fights 14</title>
+  </programme>
+  <programme start="20230608023000 -0300" stop="20230608050000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+  </programme>
+  <programme start="20230608050000 -0300" stop="20230608053000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230608053000 -0300" stop="20230608070000 -0300" channel="SporTV 3">
+    <title lang="pt">Copa Truck</title>
+  </programme>
+  <programme start="20230608070000 -0300" stop="20230608100000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Final Duplas Mistas</title>
+  </programme>
+  <programme start="20230608100000 -0300" stop="20230608130000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Semifinal Feminina</title>
+  </programme>
+  <programme start="20230608130000 -0300" stop="20230609015000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Semifinal Feminina</title>
+  </programme>
+  <programme start="20230609015000 -0300" stop="20230609023000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica: Legends Live On</title>
+  </programme>
+  <programme start="20230609023000 -0300" stop="20230609052000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+  </programme>
+  <programme start="20230609052000 -0300" stop="20230609055000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230609055000 -0300" stop="20230609083000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230609083000 -0300" stop="20230609110000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230609110000 -0300" stop="20230609133000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230609133000 -0300" stop="20230609154500 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230609154500 -0300" stop="20230609183000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230609183000 -0300" stop="20230609223000 -0300" channel="SporTV 3">
+    <title lang="pt">Jungle Fight 116</title>
+  </programme>
+  <programme start="20230609223000 -0300" stop="20230610003000 -0300" channel="SporTV 3">
+    <title lang="pt">One Friday Fights 18</title>
+  </programme>
+  <programme start="20230610003000 -0300" stop="20230610023000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230610023000 -0300" stop="20230610030000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica: Legends Live On</title>
+  </programme>
+  <programme start="20230610030000 -0300" stop="20230610033000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610033000 -0300" stop="20230610040000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610040000 -0300" stop="20230610043000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610043000 -0300" stop="20230610050000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610050000 -0300" stop="20230610053000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230610053000 -0300" stop="20230610055000 -0300" channel="SporTV 3">
+    <title lang="pt">Galeria SporTV</title>
+  </programme>
+  <programme start="20230610055000 -0300" stop="20230610083000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230610083000 -0300" stop="20230610110000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230610110000 -0300" stop="20230610133000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230610133000 -0300" stop="20230610154500 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230610154500 -0300" stop="20230610190000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros</title>
+  </programme>
+  <programme start="20230610190000 -0300" stop="20230610210000 -0300" channel="SporTV 3">
+    <title lang="pt">Programação do Canal</title>
+  </programme>
+  <programme start="20230610210000 -0300" stop="20230610213000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610213000 -0300" stop="20230610220000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610220000 -0300" stop="20230610223000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230610223000 -0300" stop="20230610230000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230610230000 -0300" stop="20230611030000 -0300" channel="SporTV 3">
+    <title lang="pt">Jungle Fight 116</title>
+  </programme>
+  <programme start="20230611030000 -0300" stop="20230611055000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate</title>
+  </programme>
+  <programme start="20230611055000 -0300" stop="20230611083000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230611083000 -0300" stop="20230611110000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230611110000 -0300" stop="20230611133000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230611133000 -0300" stop="20230611154500 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230611154500 -0300" stop="20230611190000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230611190000 -0300" stop="20230611222000 -0300" channel="SporTV 3">
+    <title lang="pt">Jungle Fight 116</title>
+  </programme>
+  <programme start="20230611222000 -0300" stop="20230611230000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Olímpica: Legends Live On</title>
+  </programme>
+  <programme start="20230611230000 -0300" stop="20230612010000 -0300" channel="SporTV 3">
+    <title lang="pt">One Friday Fights 18</title>
+  </programme>
+  <programme start="20230612010000 -0300" stop="20230612033000 -0300" channel="SporTV 3">
+    <title lang="pt">Grand Prix de Judô: Finais</title>
+  </programme>
+  <programme start="20230612033000 -0300" stop="20230612040000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230612040000 -0300" stop="20230612043000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230612043000 -0300" stop="20230612050000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230612050000 -0300" stop="20230612053000 -0300" channel="SporTV 3">
+    <title lang="pt">Faixa Combate: Mulheres Na Luta</title>
+  </programme>
+  <programme start="20230612053000 -0300" stop="20230612055000 -0300" channel="SporTV 3">
+    <title lang="pt">Baú do Esporte: Lendas</title>
+  </programme>
+  <programme start="20230612055000 -0300" stop="20230612083000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230612083000 -0300" stop="20230612110000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230612110000 -0300" stop="20230612133000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230612133000 -0300" stop="20230612154500 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230612154500 -0300" stop="20230612190000 -0300" channel="SporTV 3">
+    <title lang="pt">Roland Garros: Oitavas de Final</title>
+  </programme>
+  <programme start="20230612190000 -0300" stop="20230612203000 -0300" channel="SporTV 3">
+    <title lang="pt">Copa Truck</title>
+  </programme>
+  <programme start="20230612203000 -0300" stop="20230612220000 -0300" channel="SporTV 3">
+    <title lang="pt">Copa Truck</title>
+  </programme>
+  <programme start="20230612220000 -0300" stop="20230612224000 -0300" channel="SporTV 3">
+    <title lang="pt">Porsche Carrera Cup: 3ª Etapa</title>
+  </programme>
+  <programme start="20230612224000 -0300" stop="20230612233000 -0300" channel="SporTV 3">
+    <title lang="pt">Porsche Sprint Challenge: 3ª Etapa</title>
+  </programme>
+  <programme start="20230612233000 -0300" stop="20230613010000 -0300" channel="SporTV 3">
+    <title lang="pt">Arena Cross: 2ª Etapa</title>
   </programme>
 </tv>
