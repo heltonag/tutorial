@@ -12,3 +12,38 @@ http://192.168.1.181/html/stream/02/02.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://192.168.1.181/html/stream/03/03.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/20/Logotipo_da_RecordTV_Paulista.png",RECORD PAULISTA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/04/04.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo-2.png",CANÇAO NOVA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/05/05.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CNT_logo.svg/2560px-CNT_logo.svg.png",CNT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/06/06.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://www.zoomookids.com.br/wp-content/uploads/2022/10/cropped-zoomoo-kids-logo.png",ZOOMOO KIDS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/07/07.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/f/f9/Tvnazare.jpg/revision/latest?cb=20150116124608&path-prefix=pt-br",NAZARÉ BRASIL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/08/08.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d1/Rede_genesis.jpg",TV GENESIS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/09/09.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV APARECIDA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/15/15.m3u8
