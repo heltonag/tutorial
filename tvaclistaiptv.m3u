@@ -43,6 +43,12 @@ http://192.168.1.181/html/stream/08/08.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://192.168.1.181/html/stream/09/09.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png",BAND SPORTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/13/13.m3u8
+
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV APARECIDA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
