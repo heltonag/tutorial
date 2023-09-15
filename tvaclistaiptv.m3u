@@ -1,0 +1,14 @@
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png",TV TEM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/01/01.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2-1.png",TV SOROCABA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/02/02.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Band_logo_2018.png",BAND
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://192.168.1.181/html/stream/03/03.m3u8
