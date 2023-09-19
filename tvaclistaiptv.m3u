@@ -58,13 +58,18 @@ http://192.168.1.181/html/stream/15/15.m3u8
 
 #EXTINF:-1 tvg-id="ESPNEHD" tvg-name="ESPN Extra HD+" tvg-logo="https://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
 http://playtvplus.com:8080/tvacti/tv@c2020/311
-#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="ESPN HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
+
+#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="ESPN HD" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Esportes",ESPN HD
 http://playtvplus.com:8080/tvacti/tv@c2020/92902
-#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="ESPN HD+" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
+
+#EXTINF:-1 tvg-id="ESPNBRS" tvg-name="ESPN HD+" tvg-logo="https://logos.servidor.tv/espn.jpg" group-title="Esportes",ESPN HD+
 http://playtvplus.com:8080/tvacti/tv@c2020/92903
-#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="Canais: Esporte PPV",Estádio TNT Sports 1 HD
+
+#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 1 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="Esportes",Estádio TNT Sports 1 HD
 http://playtvplus.com:8080/tvacti/tv@c2020/102671
-#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="Canais: Esporte PPV",Estádio TNT Sports 2 HD
+
+#EXTINF:-1 tvg-id="Estadio TNT Sports" tvg-name="Estádio TNT Sports 2 HD" tvg-logo="https://logos.servidor.tv/d6a70e2ca78bfc2018b6bcf6e985ec90.png" group-title="Esportes",Estádio TNT Sports 2 HD
 http://playtvplus.com:8080/tvacti/tv@c2020/102670
+
 #EXTINF:-1 tvg-id="FASHBR" tvg-name="Fashion TV HD+" tvg-logo="https://logos.servidor.tv/48c7565704e030003fd1d40a1ad4c166.png" group-title="Canais: Variedade e Música",Fashion TV HD+
 http://playtvplus.com:8080/tvacti/tv@c2020/33240
