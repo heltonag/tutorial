@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz"
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logotipo_da_TV_TEM.png",TV TEM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -43,7 +45,7 @@ http://172.25.0.6/html/stream/08/08.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://172.25.0.6/html/stream/09/09.m3u8
 
-#EXTINF:-1 group-title="TV" ,REDE GLOBO
+#EXTINF:-1 group-title="TV" tvg-id="globohd.tv.vodafone.pt" group-title="TV" ,GLOBO HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://172.25.0.6/html/stream/10/10.m3u8
@@ -69,6 +71,3 @@ http://172.25.0.6/html/stream/13/13.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://172.25.0.6/html/stream/15/15.m3u8
-
-
-
