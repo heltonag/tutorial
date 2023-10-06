@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20231007021844 +0800" generator-info-name="epg.pw" generator-info-url="https://epg.pw/channels/7947/20231006.html" source-info-name="FREE EPG" source-info-url="https://epg.pw/api/epg.xml?channel_id=7947&amp;date=20231006&amp;timezone=None">
+  <channel id="7947">
+    <display-name lang="Brazil">Bandsports HD</display-name>
+  </channel>
+  <programme channel="7947" start="20231006000000 +0000" stop="20231006003000 +0000">
+    <title lang="zh">Acelerados</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006003000 +0000" stop="20231006010000 +0000">
+    <title lang="zh">Depois do Jogo</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006010000 +0000" stop="20231006013000 +0000">
+    <title lang="zh">Depois do Jogo</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006013000 +0000" stop="20231006023000 +0000">
+    <title lang="zh">Maratona Bandsports</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006023000 +0000" stop="20231006043000 +0000">
+    <title lang="zh">Independiente Santa Fe x Olimpia - Copa Libertadores Feminina : Independiente Santa Fe x Olimpia</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006043000 +0000" stop="20231006050000 +0000">
+    <title lang="zh">The Golf Brasil</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006050000 +0000" stop="20231006053000 +0000">
+    <title lang="zh">Supermotor</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006053000 +0000" stop="20231006063000 +0000">
+    <title lang="zh">Fórmula 1 - GP do Qatar - Treino Livre 1 : GP do Qatar - Treino Livre 1</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006063000 +0000" stop="20231006070000 +0000">
+    <title lang="zh">Supermotor</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006070000 +0000" stop="20231006090000 +0000">
+    <title lang="zh">G4</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006090000 +0000" stop="20231006100000 +0000">
+    <title lang="zh">Fórmula 1 - GP do Qatar - Classificatória : GP do Qatar - Classificatória</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006100000 +0000" stop="20231006120000 +0000">
+    <title lang="zh">Al Ittihad x Al Ahli - Campeonato Saudita de Futebol : Al Ittihad x Al Ahli</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006120000 +0000" stop="20231006140000 +0000">
+    <title lang="zh">Nacional (URU) x Internacional - Copa Libertadores Feminina : Nacional (URU) x Internacional</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006140000 +0000" stop="20231006143000 +0000">
+    <title lang="zh">Pós e Pré-Jogo</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006143000 +0000" stop="20231006163000 +0000">
+    <title lang="zh">Corinthians x Colo-Colo - Copa Libertadores Feminina : Corinthians x Colo-Colo</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006163000 +0000" stop="20231006173000 +0000">
+    <title lang="zh">Depois do Jogo</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006173000 +0000" stop="20231006180000 +0000">
+    <title lang="zh">Oléé S.A.</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006180000 +0000" stop="20231006190000 +0000">
+    <title lang="zh">Fórmula 1 - GP do Qatar - Classificatória : GP do Qatar - Classificatória</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006190000 +0000" stop="20231006200000 +0000">
+    <title lang="zh">BWF</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006200000 +0000" stop="20231006220000 +0000">
+    <title lang="zh">Corinthians x Colo-Colo - Copa Libertadores Feminina : Corinthians x Colo-Colo</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231006220000 +0000" stop="20231007000000 +0000">
+    <title lang="zh">Nacional (URU) x Internacional - Copa Libertadores Feminina : Nacional (URU) x Internacional</title>
+    <date>2023-10-06</date>
+  </programme>
+  <programme channel="7947" start="20231007000000 +0000" stop="20231007010000 +0000">
+    <title lang="zh">BWF</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007010000 +0000" stop="20231007030000 +0000">
+    <title lang="zh">Campeonato Saudita de Futebol</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007030000 +0000" stop="20231007040000 +0000">
+    <title lang="zh">Esporte Total</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007040000 +0000" stop="20231007041500 +0000">
+    <title lang="zh">Momento Olímpico</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007041500 +0000" stop="20231007050000 +0000">
+    <title lang="zh">F2: Chasing the Dream</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007050000 +0000" stop="20231007060000 +0000">
+    <title lang="zh">Fórmula 1 - GP do Qatar - Sprint : GP do Qatar - Sprint</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007060000 +0000" stop="20231007064500 +0000">
+    <title lang="zh">Supermotor</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007064500 +0000" stop="20231007071500 +0000">
+    <title lang="zh">Acelerados</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007071500 +0000" stop="20231007080000 +0000">
+    <title lang="zh">Supermotor</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007080000 +0000" stop="20231007093000 +0000">
+    <title lang="zh">Fórmula 1 - GP do Qatar - Sprint : GP do Qatar - Sprint</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007093000 +0000" stop="20231007100000 +0000">
+    <title lang="zh">Supermotor</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007100000 +0000" stop="20231007120000 +0000">
+    <title lang="zh">Al-Okhdood x Al Hilal - Campeonato Saudita de Futebol : Al-Okhdood x Al Hilal</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007120000 +0000" stop="20231007123000 +0000">
+    <title lang="zh">The Golf Brasil</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007123000 +0000" stop="20231007133000 +0000">
+    <title lang="zh">Fórmula 1 - GP do Qatar - Sprint : GP do Qatar - Sprint</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007133000 +0000" stop="20231007143000 +0000">
+    <title lang="zh">BandSports News</title>
+    <date>2023-10-07</date>
+  </programme>
+  <programme channel="7947" start="20231007143000 +0000" stop="20231008000000 +0000">
+    <title lang="zh">Blumenau x Joinville - Campeonato Catarinense de Futsal : Blumenau x Joinville</title>
+    <date>2023-10-07</date>
+  </programme>
+</tv>
